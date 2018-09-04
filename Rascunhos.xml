@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+
+<item><title>[COLOR darkkhaki]Camarote 2[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/02</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 3[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/03</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 8[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/08</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 10[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 12[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/12</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 14[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/14</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR khaki]Camarote 17[/COLOR]</title>
+<thumbnail>https://cdn0.iconfinder.com/data/icons/world-cup-football-flags/512/G_-_Portugal.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/17</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 21[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/21</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 27[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/27</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 29[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av29</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 30[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av30</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+<item><title>[COLOR darkkhaki]Camarote 31[/COLOR]</title>
+<thumbnail>http://www.strandstudios.com/img/sofa-remote-control.png</thumbnail>
+<fanart>http://i.imgur.com/tcyl1rL.jpg</fanart>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av31</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex></item>
+
+
+
+
+
+
+<item><title>[COLOR lawngreen][B]SPORT TV[/COLOR][/B]</title>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png/medium</thumbnail>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=SPORTTV</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://vip.freelive365.com/embed/pt/sportv%201.php</page>
+<referer>http://vip.freelive365.com</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B]Agenda[/B][/COLOR]</title>
+<thumbnail>https://static1.squarespace.com/static/5665ea891115e0c567245959/56670dd769a91a3abd86b1e0/566767cedc5cb4375e22a976/1449617380542/nexusae0_WeekCalendar-Icon.png</thumbnail>
+<fanart>http://acesoplisting.in/images/acesop.gif</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][I][COLOR orangered] [makelist.param3][/I] [COLOR  yellow] [makelist.param2][/COLOR]  [COLOR blue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Camarote</link><thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+</item>
+
+
+
+<item><title>[COLOR white][B]Agenda[/B][/COLOR]</title>
+<thumbnail>https://icon-icons.com/icons2/317/PNG/512/calendar-clock-icon_34472.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title> [COLOR lightgreen][makelist.param1]  [/COLOR]  [COLOR skyblue][makelist.param2] [/COLOR]  [COLOR lightslategray][makelist.param3] [/COLOR]  [COLOR skyblue][makelist.param4] [/COLOR] [COLOR yellow][B][makelist.param5] [/B] [/COLOR]   [COLOR red]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Camarote
+[makelist.param5]+Arenavision</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/$doregex[canal]</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<regex>
+<name>canal</name>
+<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+<page></page></regex>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+).* (\[.*?\])<]]></expres>
+<page>http://www.arenavision.ru/iguide</page><Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+</item>
+
+
+
+
+
+<item><title>[COLOR white]M3U[/COLOR]</title>
+<thumbnail>http://icons.veryicon.com/png/System/Rhor%20v2%20Part%202/M3U%20File.png</thumbnail>
+<fanart>https://i.imgur.com/I5c5SNE.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/9nSvWmAa</externallink></item>
+
+
+
+
+<item><title>[COLOR white]Music[/COLOR]</title>
+<thumbnail>https://i.imgur.com/16rqEIl.png</thumbnail><fanart>https://i.imgur.com/J3OHvI0.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/XFjqSx2Q</externallink></item>
+
+<item><title>[COLOR white]BeachCams[/COLOR]</title>
+<thumbnail>http://i.imgur.com/zMabRN0.png</thumbnail>
+<fanart>https://www.resortcollection.com/wp-content/themes/resortcollection/property-images/summit/summit-beach-resort-panama-city-beach-fl-beach-01.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/xS25DsaU</externallink></item>
+
+
+
+<item><title>[COLOR yellow]Series[/COLOR]</title>
+<thumbnail>https://i.imgur.com/sD1wTCd.png</thumbnail>
+<fanart>https://i.imgur.com/3gylXQp.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/kyL2f5Ay</externallink></item>
+
+
+
+<item><title>[COLOR white]M3U[/COLOR]</title>
+<thumbnail>http://icons.veryicon.com/png/System/Rhor%20v2%20Part%202/M3U%20File.png</thumbnail>
+<fanart>https://i.imgur.com/I5c5SNE.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/9nSvWmAa</externallink></item>
+
+
+<item><title>[COLOR white]xml[/COLOR]</title>
+<thumbnail>http://icons.veryicon.com/png/System/Rhor%20v2%20Part%202/M3U%20File.png</thumbnail>
+<fanart>https://i.imgur.com/I5c5SNE.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://nstreamevo.kumuki.com/4254/AAA.xml</externallink></item>
