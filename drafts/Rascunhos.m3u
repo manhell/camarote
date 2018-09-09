@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/GNtWwdt.png",Camarote Premium
+https://d3omgksgbjdd73.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/7WG7l0V.png",Camarote Platinum
+https://d1hrrwb4pven6l.cloudfront.net/index.m3u8
+
+
 
 
 
@@ -22,6 +29,23 @@ http://127.0.0.1:6878/ace/getstream?id=3aa002333aca95ee3670a79a535970eb80cdc3ab&
 http://127.0.0.1:6878/ace/getstream?id=a1ebb3d572c2f424a3b4b5cd31f04685946b884f&hlc=1&spv=0
 
 
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Iz4Z04G.png",Eleven Sports 1
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26141.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/RCnO52N.png",Eleven Sports 2
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26142.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/YcWGijj.png",Eleven Sports 3
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26143.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Zc4Njdf.png",Eleven Sports 4
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26144.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/RRBpyXi.png",Eleven Sports 5
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26145.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/iU5B9eE.png",Eleven Sports 6
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26146.m3u8
 
 
 
@@ -152,6 +176,18 @@ http://62.210.99.158:80/live?channelId=138&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 
 
 
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/Iz4Z04G.png",Eleven Sports UK 1
+http://163.172.105.25:80/live?channelId=370&deviceMac=00:1a:79:3c:c8:cb&uid=6664
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/RCnO52N.png",Eleven Sports UK 2
+http://163.172.105.25:80/live?channelId=375&deviceMac=00:1a:79:3c:c8:cb&uid=6664
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/RCnO52N.png",Eleven Sports UK 2
+http://31.220.0.134:8081/live/jtvmix2/chunks.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/YcWGijj.png",Eleven Sports UK 3
+http://163.172.105.25:80/live?channelId=380&deviceMac=00:1a:79:3c:c8:cb&uid=6664
 
 
 
