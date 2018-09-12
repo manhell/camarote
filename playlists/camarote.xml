@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-
 <item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link></item>
-
-<item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
-
-<item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8;streamtype=HLSRETRY&amp;name=RTP1</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8;streamtype=HLSRETRY&amp;name=RTP1</link></item>
 
 <item><title>RTP 2</title><thumbnail>https://i.imgur.com/g5qIoIc.png</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8;streamtype=HLSRETRY&amp;name=RTP2</link></item>
 
 <item><title>SIC</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
@@ -23,7 +16,7 @@
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
 <item><title>RTP 3</title><thumbnail>https://i.imgur.com/DedQGq2.png</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8;streamtype=HLSRETRY&amp;name=RTP3</link></item>
 
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
@@ -48,19 +41,28 @@
 <thumbnail>https://i.imgur.com/01oeTyK.png</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
-<sportsdevil>http://tugatv.net/canais/btv.html</sportsdevil>
+<sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>Sport TV 1</title>
+<thumbnail>https://i.imgur.com/1e6BIsy.png</thumbnail><fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
+<link>http://127.0.0.1:6878/ace/getstream?id=ba3a778e64f0648f6661f465bbb3a0bad3ad2bef&hlc=1&spv=0&amp;name=SPORT TV 1$$lsname=Sport TV 1 AceStream</link>
+<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=Sport TV 1</link>
+</item>
+
+<item><title>Sport TV 1</title>
 <thumbnail>https://i.imgur.com/1e6BIsy.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
+<sportsdevil>https://sport7.pw/57422596ccc656af7b4762392ec8f750-live.html</sportsdevil>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
-<sportsdevil>http://sportsonline.pw/channels/pt/sporttv1.html</sportsdevil>
-<sportsdevil>http://tugatv.net/canais/sporttv1.html</sportsdevil>
+<sportsdevil>http://sportsonline.pw/livetv/pt-sporttv1.html</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
+<sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
+<sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
+<sportsdevil>http://freehdsport.is/sptv1.html</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 2</title>
@@ -69,7 +71,8 @@
 <sportsdevil>http://sharecast.eu/embed/live2-bipmr</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
 <sportsdevil>http://sportz.pw/pt2.php</sportsdevil>
-<sportsdevil>http://tugatv.net/canais/sporttv2.html</sportsdevil>
+<sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
+<sportsdevil>http://freehdsport.is/sptv2.html</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 3</title>
@@ -79,6 +82,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <sportsdevil>http://widestream.io/embed-13609</sportsdevil>
 <sportsdevil>http://tugatv.net/canais/sporttv3.html</sportsdevil>
+<sportsdevil>http://freehdsport.is/sptv3.html</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 4</title>
@@ -88,6 +92,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
 <sportsdevil>http://widestream.io/embed-13610</sportsdevil>
 <sportsdevil>http://tugatv.net/canais/sporttv4.html</sportsdevil>
+<sportsdevil>http://freehdsport.is/sptv4.html</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 5</title>
@@ -99,6 +104,7 @@
 <sportsdevil>http://sportsonline.pw/livetv/pt-sporttv5.html</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportz.pw/pt5.php</sportsdevil>
+<sportsdevil>http://freehdsport.is/sptv5.html</sportsdevil>
 <referer></referer></item>
 
 
@@ -108,7 +114,7 @@
 <item><title>HBO</title>
 <thumbnail>https://i.imgur.com/NB40ipS.png</thumbnail>
 <fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
-<sportsdevil>http://123stream.io/live/36674</sportsdevil>
+<sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
 <sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
 <referer></referer></item>
 
