@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<item><title>[COLOR white]Camarote[/COLOR] [COLOR green]I[/COLOR][COLOR yellow]P[/COLOR][COLOR red]TV[/COLOR]</title>
-<thumbnail>https://i.imgur.com/Zc894p7.png</thumbnail>
-<fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://bit.ly/tvslist</externallink></item>
 
+<item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
+<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
 
-<item><title>[COLOR white]Camarotes[/COLOR]</title>
-<thumbnail>https://lh3.ggpht.com/40AP4iodcScwHdPa57w3xl33B7H0k-kI1z2ZzzuoBZTJV2IKXDmVKfh55armi3VoLw4=w300</thumbnail>
-<fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_PVR_SIMPLE_CLIENT</externallink></item>
+<item><title>RTP 2</title><thumbnail>https://i.imgur.com/g5qIoIc.png</thumbnail>
+<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
 
+<item><title>SIC</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 
+<item><title>TVI</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3322.m3u8;streamtype=HLSRETRY&amp;name=TVI</link></item>
 
+<item><title>SIC Noticias</title><thumbnail>https://i.imgur.com/OYrCNTp.png</thumbnail><fanart>https://i.imgur.com/nGpUWQ2.png</fanart>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
-<item><title>SIC noticias</title>
-<thumbnail>https://i.imgur.com/OYrCNTp.png</thumbnail>
-<fanart>https://i.imgur.com/nGpUWQ2.png</fanart>
-<sportsdevil>http://tugatv.net/canais/sicnoticias.html</sportsdevil>
-<referer></referer></item>
+<item><title>RTP 3</title><thumbnail>https://i.imgur.com/DedQGq2.png</thumbnail>
+<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
+
+<item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
+<link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
 
 <item><title>CMTV</title>
 <thumbnail>https://i.imgur.com/3r2svZ9.png</thumbnail>
 <fanart>https://i.imgur.com/DWfhP8t.png</fanart>
 <sportsdevil>https://www.ucasterplayer.com/hembedplayer/tvdesportoinfoiframe/1/720/450</sportsdevil>
 <referer></referer></item>
+
+<item><title>CMTV</title><thumbnail>https://i.imgur.com/3r2svZ9.png</thumbnail><fanart>https://i.imgur.com/DWfhP8t.png</fanart>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5116.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
 <item><title>A Bola TV</title>
 <thumbnail>https://i.imgur.com/ayINIhr.png</thumbnail>
@@ -42,7 +45,10 @@
 <sportsdevil>http://tugatv.net/canais/btv.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV1</title>
+<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
+
+<item><title>Sport TV 1</title>
 <thumbnail>https://i.imgur.com/1e6BIsy.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
@@ -51,7 +57,7 @@
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV2</title>
+<item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/atpxquC.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/live2-bipmr</sportsdevil>
@@ -60,7 +66,7 @@
 <sportsdevil>http://tugatv.net/canais/sporttv2.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV3</title>
+<item><title>Sport TV 3</title>
 <thumbnail>https://i.imgur.com/d9SuJsD.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
@@ -69,7 +75,7 @@
 <sportsdevil>http://tugatv.net/canais/sporttv3.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV4</title>
+<item><title>Sport TV 4</title>
 <thumbnail>https://i.imgur.com/tKFUZUZ.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/live4-w04by</sportsdevil>
@@ -78,7 +84,7 @@
 <sportsdevil>http://tugatv.net/canais/sporttv4.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV5</title>
+<item><title>Sport TV 5</title>
 <thumbnail>https://i.imgur.com/4ZH8EFB.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://tugatv.net/canais/sporttv5.html</sportsdevil>
@@ -103,49 +109,15 @@
 
 
 
+<item><title>[COLOR white]Camarote[/COLOR] [COLOR green]I[/COLOR][COLOR yellow]P[/COLOR][COLOR red]TV[/COLOR]</title>
+<thumbnail>https://i.imgur.com/Zc894p7.png</thumbnail>
+<fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://bit.ly/tvslist</externallink></item>
 
 
-<item><title>Playboy HD</title><thumbnail>https://i.imgur.com/r1eGBWx.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=ba3a778e64f0648f6661f465bbb3a0bad3ad2bef&hlc=1&spv=0</link></item>
-
-<item><title>Hustler HD</title><thumbnail>https://i.imgur.com/RHZ2y0q.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=c88bae5ad1427c1daf9c85b0a0fbe1f353381b95&hlc=1&spv=0</link></item>
-
-<item><title>Hustler HD</title><thumbnail>https://i.imgur.com/RHZ2y0q.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=ce4949f8114320fd5424bd403c0fa030f61dbb15&hlc=1&spv=0</link></item>
-
-<item><title>Brazzers Europe HD</title><thumbnail>https://i.imgur.com/tyfzRN2.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=832c6192a5cca6979760946827017834348f607c&hlc=1&spv=0</link></item>
-
-<item><title>Russian Nights HD</title><thumbnail>https://i.imgur.com/n1v1xhx.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=016ed98e4c703f265784b5dfd17b018c4681386e&hlc=1&spv=0</link></item>
-
-<item><title>SCT HD</title><thumbnail>https://i.imgur.com/foFlzni.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=af523e0858b132c111d1ca42634d8a5708fb6778&hlc=1&spv=0</link></item>
-
-<item><title>CentoXCento HD</title><thumbnail>https://i.imgur.com/htwBaga.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=ed9000b0ae29c9e86de78416cdb7707d3f816863&hlc=1&spv=0</link></item>
-
-<item><title>Sesto Senso HD</title><thumbnail>https://i.imgur.com/LaqwAbw.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=f278107edf89162f9b2aacdc76bcc9527f71f242&hlc=1&spv=0</link></item>
-
-<item><title>BarelyLegal HD</title><thumbnail>https://i.imgur.com/RVCO6lS.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=7c8ed4302273c39583a40a690ac2bf3994d1e878&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV Amateur HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479211630_1fap-tv-amateur.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=cb6d806f327e4fcdc1546ff5ac40a6b007201dcc&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV 2 HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479211332_1fap-tv-2.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=9d241c6c8de5899d9e58949286fffb8e9fd42437&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV 3 HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479211447_1fap-tv-3.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=5a5bb912d0aea16a76875e7a7155cb93bce0aadf&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV 4 HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479211583_1fap-tv-4.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=03f0b0b210826a999e03dd1cb3b3f585dadad1b4&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV teens HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479212457_1fap-tv-teens.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=8dcd4e8a333bd7d8bba75b1e98341b3f67ca6d70&hlc=1&spv=0</link></item>
-
-<item><title>FAP TV compilation HD</title><thumbnail>http://tuchkatv.org/uploads/posts/2016-11/1479211945_1fap-tv-compilation.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=fefbb2e184496b8e1b64741d4e2a3bcee7d230f3&hlc=1&spv=0</link></item>
+<item><title>[COLOR white]Camarotes[/COLOR]</title>
+<thumbnail>https://lh3.ggpht.com/40AP4iodcScwHdPa57w3xl33B7H0k-kI1z2ZzzuoBZTJV2IKXDmVKfh55armi3VoLw4=w300</thumbnail>
+<fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_PVR_SIMPLE_CLIENT</externallink></item>
