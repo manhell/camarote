@@ -2,7 +2,13 @@
 
 
 <item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
+<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link></item>
+
+<item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
 <link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
+
+<item><title>RTP 1</title><thumbnail>https://i.imgur.com/dVaUaYs.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8;streamtype=HLSRETRY&amp;name=RTP1</link></item>
 
 <item><title>RTP 2</title><thumbnail>https://i.imgur.com/g5qIoIc.png</thumbnail>
 <link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
@@ -10,7 +16,7 @@
 <item><title>SIC</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 
-<item><title>TVI</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
+<item><title>TVI</title><thumbnail>https://i.imgur.com/ZPsjQU8.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3322.m3u8;streamtype=HLSRETRY&amp;name=TVI</link></item>
 
 <item><title>SIC Noticias</title><thumbnail>https://i.imgur.com/OYrCNTp.png</thumbnail><fanart>https://i.imgur.com/nGpUWQ2.png</fanart>
@@ -45,7 +51,7 @@
 <sportsdevil>http://tugatv.net/canais/btv.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
+<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>Sport TV 1</title>

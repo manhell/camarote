@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/dVaUaYs.png"tvg-id="rtp1.pt",RTP 1
-http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/g5qIoIc.png" tvg-id="rtp2.pt",RTP 2
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8
