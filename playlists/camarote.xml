@@ -126,6 +126,15 @@
 <link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
 </item>
 
+<item><title>ESPN</title><thumbnail>https://i.imgur.com/Vd2Plnq.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://80.80.160.168/live/6/live.m3u8;streamtype=HLSRETRY&amp;name=ESPN</link></item>
+
+<item><title>ESPN 2</title><thumbnail>https://i.imgur.com/Fm8wmC2.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8;streamtype=HLSRETRY&amp;name=ESPN2</link></item>
+
+
+
+
 
 
 
