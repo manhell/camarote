@@ -48,13 +48,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>Sport TV 1</title>
-<thumbnail>https://i.imgur.com/1e6BIsy.png</thumbnail><fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
-<link>http://127.0.0.1:6878/ace/getstream?id=ba3a778e64f0648f6661f465bbb3a0bad3ad2bef&hlc=1&spv=0&amp;name=SPORT TV 1$$lsname=Sport TV 1 AceStream</link>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=Sport TV 1</link>
-</item>
-
-<item><title>Sport TV 1</title>
-<thumbnail>https://i.imgur.com/1e6BIsy.png</thumbnail>
+<thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>https://sport7.pw/57422596ccc656af7b4762392ec8f750-live.html</sportsdevil>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
@@ -64,6 +58,13 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <sportsdevil>http://freehdsport.is/sptv1.html</sportsdevil>
 <referer></referer></item>
+
+<item><title>Sport TV 1 HD</title>
+<thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
+<link>http://127.0.0.1:6878/ace/getstream?id=ba3a778e64f0648f6661f465bbb3a0bad3ad2bef&hlc=1&spv=0&amp;name=SPORT TV 1$$lsname=Sport TV 1 AceStream</link>
+<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=Sport TV 1</link>
+</item>
 
 <item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/atpxquC.png</thumbnail>

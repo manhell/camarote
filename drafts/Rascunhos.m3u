@@ -1,5 +1,51 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/dVaUaYs.png"tvg-id="rtp1.pt",RTP 1
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/g5qIoIc.png" tvg-id="rtp2.pt",RTP 2
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8
+
+
+
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/ZPsjQU8.png" tvg-id="TVI.pt",TVI
+http://5.189.187.55:8000/live/Fadil/skype/1055.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/DedQGq2.png" tvg-id="rtpn.pt",RTP 3
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/DWfhP8t.png" tvg-id="CMTV.pt",CMTV
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/423.m3u8
+
+
+
+#EXTINF:-1 group-title="PT" tvg-id="TVCine1.pt" tvg-logo="https://i.imgur.com/zrVPsjp.png",TVCine 1
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/384.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-id="TVCine2.pt" tvg-logo="https://i.imgur.com/w4jbWeC.png",TVCine 2
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/382.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-id="TVCine3.pt" tvg-logo="https://i.imgur.com/8JgbCCi.png",TVCine 3
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/380.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-id="TVCine4.pt" tvg-logo="https://i.imgur.com/mmiGEd6.png",TVCine 4
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/378.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/BckgUU6.png" tvg-id="TVSeries.pt",TVSeries
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/376.m3u8
+
+
+#EXTINF:-1 tvg-name="RTP" group-title="PT" tvg-logo="https://i.imgur.com/sBmXjkt.png" tvg-id="RTPi.pt",RTP Internacional
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/794/index.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/BMz1e7j.png" tvg-id="ABolaTV.pt",A Bola TV
+http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/332.m3u8
+
+
+#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/y16ZWfQ.png" tvg-id="sporttvmais.pt",Sport TV +
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2425.m3u8
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/GNtWwdt.png",Camarote Premium
 https://d3omgksgbjdd73.cloudfront.net/index.m3u8
@@ -9,17 +55,32 @@ https://d1hrrwb4pven6l.cloudfront.net/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/wsVhzrV.png" tvg-id="sporttv1.pt",Sport TV 1 HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1238.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/BtrY9KG.png" tvg-id="sporttv2.pt",Sport TV 2 HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1239.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/o1WtdXY.png" tvg-id="sporttv3.pt",Sport TV 3 HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1400.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/ueAmbPE.png" tvg-id="sporttv4.pt",Sport TV 4 HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1241.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/kEuOnVX.png" tvg-id="sporttv5.pt",Sport TV 5 HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1242.m3u8
 
 
 
-
-#EXTINF:-1 tvg-name="RTP" group-title="PT" tvg-logo="https://i.imgur.com/sBmXjkt.png" tvg-id="RTPi.pt",RTP Internacional
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/794/index.m3u8
-
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/fn70zFO.png" tvg-id="BenficaTV.pt",Benfica TV
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2478.m3u8
 
 
 #EXTINF:-1 tvg-name="BTV HD" group-title="Sport" tvg-logo="https://i.imgur.com/sv4kAK8.png" tvg-id="BenficaTV.pt",Benfica TV HD
 http://asdp.ddns.net:8000/live/andre/andre/475.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/8RstXaN.png" tvg-id="SPORTINGTV.pt",SportingTV
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2477.m3u8
 
 
 #EXTINF:-1 group-title="AceStream" tvg-logo="https://i.imgur.com/oK6Q5o7.png" tvg-id="eurosport.pt",Eurosport 1 HD
@@ -58,24 +119,6 @@ http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3914.m3u8
 
 
 
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",ABC
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Gkb2bQa.png",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/p3Ix05h.png",BBC News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/5r0hu3q.png",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VKTRbb8.png",FOX News
-http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/YzWLvK9.png",SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/NB40ipS.png",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=90ae7552862cf518f5d63c2cd95ef3a2c4106454&hlc=1&spv=0
