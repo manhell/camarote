@@ -21,31 +21,32 @@
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
 
-<item><title>CMTV</title>
-<thumbnail>https://i.imgur.com/3r2svZ9.png</thumbnail>
-<fanart>https://i.imgur.com/DWfhP8t.png</fanart>
+<item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <sportsdevil>https://www.ucasterplayer.com/hembedplayer/tvdesportoinfoiframe/1/720/450</sportsdevil>
 <referer></referer></item>
 
-<item><title>CMTV</title><thumbnail>https://i.imgur.com/3r2svZ9.png</thumbnail><fanart>https://i.imgur.com/DWfhP8t.png</fanart>
+<item><title>CMTV HD</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5116.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
-<item><title>A Bola TV</title>
-<thumbnail>https://i.imgur.com/ayINIhr.png</thumbnail>
-<fanart>https://i.imgur.com/BMz1e7j.png</fanart>
+<item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
 <sportsdevil>http://www.ucasterplayer.com/hembedplayer/abolatvdesporto/1/560/442</sportsdevil>
 <referer></referer></item>
 
+<item><title>A Bola TV HD</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/6281.m3u8;streamtype=HLSRETRY&amp;name=Bola TV</link></item>
+
+<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>Benfica TV</title>
-<thumbnail>https://i.imgur.com/01oeTyK.png</thumbnail>
-<fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
+<thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9343.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
+<item><title>BTV HD</title>
+<thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4449.m3u8;streamtype=HLSRETRY&amp;name=BTV</link></item>
 
 <item><title>Sport TV 1</title>
 <thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
@@ -115,12 +116,36 @@
 
 <item><title>Camarote Premium</title>
 <thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=ba3a778e64f0648f6661f465bbb3a0bad3ad2bef&hlc=1&spv=0&amp;name=SPORT TV 1$$lsname=Sport TV 1 AceStream</link>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=Sport TV 1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
+</item>
+
+<item><title>Camarote Platinum</title>
+<thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
 </item>
 
 
 
+
+
+
+
+<item><title>TVCine 1</title><thumbnail>https://i.imgur.com/zrVPsjp.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11218.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
+
+<item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11219.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
+
+<item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11220.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
+
+<item><title>TVCine 4</title><thumbnail>https://i.imgur.com/mmiGEd6.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11221.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
+
+<item><title>TVSeries</title><thumbnail>https://i.imgur.com/BckgUU6.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11222.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
 
 
 
