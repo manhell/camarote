@@ -48,9 +48,7 @@
 <thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4449.m3u8;streamtype=HLSRETRY&amp;name=BTV</link></item>
 
-<item><title>Sport TV 1</title>
-<thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
-<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
+<item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <sportsdevil>https://sport7.pw/57422596ccc656af7b4762392ec8f750-live.html</sportsdevil>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
 <sportsdevil>http://sportsonline.pw/livetv/pt-sporttv1.html</sportsdevil>
@@ -60,9 +58,8 @@
 <sportsdevil>http://freehdsport.is/sptv1.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 1 HD</title>
-<thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0</link>
+<item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link>
 </item>
 
 <item><title>Sport TV 2</title>
@@ -114,7 +111,7 @@
 
 <item><title>Camarote Premium</title>
 <thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17$$lsname=Camarote 17</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17$$lsname=Camarote 17 PT</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
 </item>
