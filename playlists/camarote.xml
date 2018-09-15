@@ -120,7 +120,6 @@
 
 <item><title>Camarote Platinum</title>
 <thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=23b3e1ea3baad74da3577fdaf93f441716dc2739&hlc=1&spv=0&amp;name=FS1$$lsname=FS1</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=0397e2511328c554db09dd5bc0bc46f7fdddf288&hlc=1&spv=0&amp;name=TSN3$$lsname=TSN3</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=5011224d7f5113e73f12739be7e11beb21c4987c&hlc=1&spv=0&amp;name=TSN4$$lsname=TSN4</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=b93668568039ab8f5c673b81f7a26ef7b0da2b2a&hlc=1&spv=0&amp;name=sportsnet$$lsname=Sportsnet</link>
