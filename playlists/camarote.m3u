@@ -36,11 +36,18 @@ http://77.54.248.94:9981/stream/channelid/806400516
 
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/SU5Xwhl.png" tvg-id="PortoCanal.pt",Porto Canal
-http://213.13.26.11:1935/live/portocanal/livestream.m3u8
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL",KURIAKOS TV
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL",KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",CANAL 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Vd2Plnq.png",ESPN
@@ -50,7 +57,18 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="BRASIL",SPORTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV2.png" group-title="BRASIL",SPORTV2
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV3.png" group-title="BRASIL",SPORTV3
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNBR.png" group-title="BRASIL",ESPN BRASIL
+http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN+.png" group-title="BRASIL",ESPN+
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="BRASIL",FOX SPORTS BR
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
@@ -69,3 +87,32 @@ http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 
 #EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/YzWLvK9.png",SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="PORTUGAL",RAI NEWS 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="PORTUGAL",TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="PORTUGAL",FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RUSSIATODAY.png" group-title="PORTUGAL",RUSSIA TODAY
+http://secure-streams.akamaized.net/rt-uk/index800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" group-title="PORTUGAL",RECORD NEWS
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING HITS
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING DANCE FLOOR
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING Classic
+http://djing.com/tv/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING IBIZA
+http://djing.com/tv/ibiza.m3u8
