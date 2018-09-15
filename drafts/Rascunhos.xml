@@ -2,6 +2,13 @@
 
 
 
+<item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
+<sportsdevil>http://www.ucasterplayer.com/hembedplayer/abolatvdesporto/1/560/442</sportsdevil>
+<referer></referer></item>
+
+<item><title>BTV HD</title>
+<thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
+<link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4449.m3u8;streamtype=HLSRETRY&amp;name=BTV</link></item>
 
 <item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <sportsdevil>https://www.ucasterplayer.com/hembedplayer/tvdesportoinfoiframe/1/720/450</sportsdevil>
