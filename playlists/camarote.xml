@@ -48,6 +48,10 @@
 <thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4449.m3u8;streamtype=HLSRETRY&amp;name=BTV</link></item>
 
+<item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link>
+</item>
+
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <sportsdevil>https://sport7.pw/57422596ccc656af7b4762392ec8f750-live.html</sportsdevil>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
@@ -58,9 +62,6 @@
 <sportsdevil>http://freehdsport.is/sptv1.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link>
-</item>
 
 <item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/QES8sdA.png</thumbnail>
@@ -111,15 +112,27 @@
 
 <item><title>Camarote Premium</title>
 <thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17$$lsname=Camarote 17 PT</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
 </item>
 
 <item><title>Camarote Platinum</title>
 <thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=23b3e1ea3baad74da3577fdaf93f441716dc2739&hlc=1&spv=0&amp;name=FS1$$lsname=FS1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=0397e2511328c554db09dd5bc0bc46f7fdddf288&hlc=1&spv=0&amp;name=TSN3$$lsname=TSN3</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=5011224d7f5113e73f12739be7e11beb21c4987c&hlc=1&spv=0&amp;name=TSN4$$lsname=TSN4</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b93668568039ab8f5c673b81f7a26ef7b0da2b2a&hlc=1&spv=0&amp;name=sportsnet$$lsname=Sportsnet</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=63846e61fc0ae0cac1288c9152fa6962b1761dfa&hlc=1&spv=0&amp;name=NBC$$lsname=NBC</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=baa37ad326908378b8203a55f40b3063ae4baec8&hlc=1&spv=0&amp;name=NBC$$lsname=NBC</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b86913a7e92a869e577e881198272cc497f4ff39&hlc=1&spv=0&amp;name=beinUS$$lsname=bein US</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=0bd505c361cd3b86f36228e70087e1f3f852fa40&hlc=1&spv=0&amp;name=beinUS$$lsname=bein US</link>
+</item>
+
+
+<item><title>Fox Sports 506</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link>
 </item>
 
 <item><title>ESPN</title><thumbnail>https://i.imgur.com/Vd2Plnq.png</thumbnail>
