@@ -21,11 +21,8 @@
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
 
-<item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
-<sportsdevil>https://www.ucasterplayer.com/hembedplayer/tvdesportoinfoiframe/1/720/450</sportsdevil>
-<referer></referer></item>
 
-<item><title>CMTV HD</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
+<item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5116.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
 <item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>

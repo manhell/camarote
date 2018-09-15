@@ -1,43 +1,63 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/Rvku3dH.png" tvg-id="sic.pt",SIC
-http://live.impresa.pt/live/sic/sic540p.m3u8
-
-#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",SIC Noticias
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-
-#EXTINF:-1 group-title="PT" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-
-#EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/qQnhgDw.png" tvg-id="TVI24.pt",TVI 24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-
-
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/DoqD7Aq.png" tvg-id="sporttv1.pt",Sport TV 1
 http://77.54.248.94:9981/stream/channelid/2135667
-
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/QES8sdA.png" tvg-id="sporttv2.pt",Sport TV 2
 http://77.54.248.94:9981/stream/channelid/1550043205
 
-
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/IlyBtUw.png" tvg-id="sporttv3.pt",Sport TV 3
 http://77.54.248.94:9981/stream/channelid/1669467421
 
-
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/qjk8SSi.png" tvg-id="sporttv4.pt",Sport TV 4
 http://77.54.248.94:9981/stream/channelid/2090972347
-
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/uS8vUKx.png" tvg-id="sporttv5.pt",Sport TV 5
 http://77.54.248.94:9981/stream/channelid/806400516
 
 
-
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/SU5Xwhl.png" tvg-id="PortoCanal.pt",Porto Canal
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Vd2Plnq.png",ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Fm8wmC2.png",ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="Desporto",SPORTV
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV2.png" group-title="Desporto",SPORTV2
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV3.png" group-title="Desporto",SPORTV3
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNBR.png" group-title="Desporto",ESPN BRASIL
+http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN+.png" group-title="Desporto",ESPN+
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="Desporto",FOX SPORTS BR
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/Rvku3dH.png" tvg-id="sic.pt",SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",SIC Noticias
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/qQnhgDw.png" tvg-id="TVI24.pt",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL",KURIAKOS TV
@@ -50,69 +70,46 @@ http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Vd2Plnq.png",ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Fm8wmC2.png",ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="BRASIL",SPORTV
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV2.png" group-title="BRASIL",SPORTV2
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV3.png" group-title="BRASIL",SPORTV3
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNBR.png" group-title="BRASIL",ESPN BRASIL
-http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN+.png" group-title="BRASIL",ESPN+
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="BRASIL",FOX SPORTS BR
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Gkb2bQa.png",ABC News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Gkb2bQa.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/p3Ix05h.png",BBC News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/p3Ix05h.png",BBC News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/5r0hu3q.png",CBS News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/5r0hu3q.png",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VKTRbb8.png",FOX News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/VKTRbb8.png",FOX News
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/YzWLvK9.png",SKY News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/YzWLvK9.png",SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="PORTUGAL",RAI NEWS 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="NEWS",RAI NEWS 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="PORTUGAL",TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="NEWS",DW (ENGLISH)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH)
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="PORTUGAL",FRANCE 24 EN
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="NEWS",FRANCE 24 EN
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RUSSIATODAY.png" group-title="PORTUGAL",RUSSIA TODAY
-http://secure-streams.akamaized.net/rt-uk/index800.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" group-title="PORTUGAL",RECORD NEWS
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING HITS
 http://www.djing.com/tv/hits.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING DANCE FLOOR
 http://djing.com/tv/dancefloor.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING Classic
 http://djing.com/tv/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="Musica",DJING IBIZA
 http://djing.com/tv/ibiza.m3u8
