@@ -7,19 +7,20 @@
 <link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8;streamtype=HLSRETRY&amp;name=RTP2</link></item>
 
 <item><title>SIC</title><thumbnail>https://i.imgur.com/Rvku3dH.png</thumbnail>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://live.impresa.pt/live/sic/sic540p.m3u8;streamtype=HLSRETRY&amp;name=SIC</link></item>
 
 <item><title>TVI</title><thumbnail>https://i.imgur.com/ZPsjQU8.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1112.m3u8;streamtype=HLSRETRY&amp;name=TVI</link></item>
 
 <item><title>SIC Noticias</title><thumbnail>https://i.imgur.com/nGpUWQ2.png</thumbnail>
-<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://live.impresa.pt/live/sicnot/sicnot540p.m3u8;streamtype=HLSRETRY&amp;name=SiCnot</link></item>
 
 <item><title>RTP 3</title><thumbnail>https://i.imgur.com/DedQGq2.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8;streamtype=HLSRETRY&amp;name=RTP3</link></item>
 
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
-<link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8;streamtype=HLSRETRY&amp;name=TVI24</link></item>
+<link></link></item>
 
 <item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1031.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
@@ -40,7 +41,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1107.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
 
 <item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=Bola TV</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
 
 <item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1099.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
