@@ -100,8 +100,7 @@
 
 
 <item><title>Fox Sports 506</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link>
-</item>
+<link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
 <item><title>ESPN</title><thumbnail>https://i.imgur.com/Vd2Plnq.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://80.80.160.168/live/6/live.m3u8;streamtype=HLSRETRY&amp;name=ESPN</link></item>
@@ -119,21 +118,18 @@
 
 <item><title>Camarote Premium</title>
 <thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=1dbf9a308722f88a4de5b8e8a797849fd286034c&hlc=1&spv=0&amp;name=BTS1$$lsname=BTS1</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=baa37ad326908378b8203a55f40b3063ae4baec8&hlc=1&spv=0&amp;name=BTS1$$lsname=BTSport</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=63846e61fc0ae0cac1288c9152fa6962b1761dfa&hlc=1&spv=0&amp;name=NBC$$lsname=NBC</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=054788adbbd70f6825e85d10e1083bef218bb5df&hlc=1&spv=0&amp;name=beinUS$$lsname=bein US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=0bd505c361cd3b86f36228e70087e1f3f852fa40&hlc=1&spv=0&amp;name=beinUS$$lsname=bein US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=0397e2511328c554db09dd5bc0bc46f7fdddf288&hlc=1&spv=0&amp;name=TSN3$$lsname=TSN3</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=5011224d7f5113e73f12739be7e11beb21c4987c&hlc=1&spv=0&amp;name=TSN4$$lsname=TSN4</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b93668568039ab8f5c673b81f7a26ef7b0da2b2a&hlc=1&spv=0&amp;name=sportsnet$$lsname=Sportsnet</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=SKY$$lsname=NBCSN</link>
 </item>
 
 <item><title>Camarote Platinum</title>
 <thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=Camarote35$$lsname=Camarote 35</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=Camarote37$$lsname=Camarote 37</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&hlc=1&spv=0&amp;name=Camarote39$$lsname=Camarote 39</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
 </item>
 
