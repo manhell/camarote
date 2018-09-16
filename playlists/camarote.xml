@@ -59,7 +59,7 @@
 <sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1hd.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link></item>
 
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
@@ -75,10 +75,10 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 2 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<item><title>Sport TV 2 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2hd.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=Camarote7</link></item>
 
-<item><title>Sport TV 2</title>
+<item><title>Sport TV 2 SD</title>
 <thumbnail>https://i.imgur.com/QES8sdA.png</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live2-bipmr</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
@@ -86,7 +86,7 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 3</title>
+<item><title>Sport TV 3 SD</title>
 <thumbnail>https://i.imgur.com/IlyBtUw.png</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
@@ -94,7 +94,7 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 4</title>
+<item><title>Sport TV 4 SD</title>
 <thumbnail>https://i.imgur.com/qjk8SSi.png</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live4-w04by</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
@@ -102,7 +102,7 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
 <referer></referer></item>
 
-<item><title>Sport TV 5</title>
+<item><title>Sport TV 5 SD</title>
 <thumbnail>https://i.imgur.com/uS8vUKx.png</thumbnail>
 <fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/sporttv.jpg</fanart>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
