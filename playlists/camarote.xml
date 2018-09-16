@@ -60,21 +60,23 @@
 <referer></referer></item>
 
 <item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link>
-</item>
-
-<item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
-<sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
-<sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
-<sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
-<sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
-<referer></referer></item>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link></item>
 
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://91.208.115.13:80/live/BESIPTV/57144lvdtjv254793/7846.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 </item>
+
+<item><title>Sport TV 1 SD</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
+<sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
+<sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
+<sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
+<sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
+<referer></referer></item>
+
+<item><title>Sport TV 2 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=Camarote7</link></item>
 
 <item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/QES8sdA.png</thumbnail>
