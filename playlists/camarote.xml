@@ -37,8 +37,7 @@
 <referer></referer></item>
 
 <item><title>Sport TV 1 HD</title><thumbnail>https://i.imgur.com/wsVhzrV.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17$$lsname=Sport TV1 Ace</link>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link>
 </item>
 
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
@@ -46,8 +45,6 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/sporttv1.php</sportsdevil>
-<sportsdevil>http://sslsports.co/soccer-streams/sporttv1portugal.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 2</title>
@@ -56,8 +53,6 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/sporttv2.php</sportsdevil>
-<sportsdevil>http://sslsports.co/soccer-streams/sporttv2portugal.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 3</title>
@@ -66,7 +61,6 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/sporttv3.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 4</title>
@@ -75,7 +69,6 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv4.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/sporttv4.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 5</title>
@@ -84,7 +77,6 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv5.html</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/sporttv5.php</sportsdevil>
 <referer></referer></item>
 
 
