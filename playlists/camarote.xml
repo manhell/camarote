@@ -24,11 +24,34 @@
 <item><title>CMTV</title><thumbnail>https://i.imgur.com/DWfhP8t.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1031.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
+<item><title>TVCine 1</title><thumbnail>https://i.imgur.com/zrVPsjp.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1111.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
+
+<item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1110.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
+
+<item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1109.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
+
+<item><title>TVCine 4</title><thumbnail>https://i.imgur.com/mmiGEd6.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1108.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
+
+<item><title>TVSeries</title><thumbnail>https://i.imgur.com/BckgUU6.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1107.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
+
 <item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=Bola TV</link></item>
 
 <item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1099.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
+
+<item><title>HBO</title>
+<thumbnail>https://i.imgur.com/NB40ipS.png</thumbnail>
+<fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
+<sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
+<sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
+<referer></referer></item>
+
 
 <item><title>Benfica TV</title>
 <thumbnail>https://i.imgur.com/fn70zFO.png</thumbnail><fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
@@ -46,6 +69,12 @@
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
 <referer></referer></item>
+
+<item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://91.208.115.13:80/live/BESIPTV/57144lvdtjv254793/7846.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
+</item>
 
 <item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/QES8sdA.png</thumbnail>
@@ -87,30 +116,21 @@
 <item><title>Fox Sports 506</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
-<item><title>ESPN</title><thumbnail>https://i.imgur.com/Vd2Plnq.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://80.80.160.168/live/6/live.m3u8;streamtype=HLSRETRY&amp;name=ESPN</link></item>
-
-<item><title>ESPN 2</title><thumbnail>https://i.imgur.com/Fm8wmC2.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8;streamtype=HLSRETRY&amp;name=ESPN2</link></item>
-
-
-
-
-
 
 
 
 
 <item><title>Camarote Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event FHD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=090f5f4e8a288db3e61090d412c29c17b9e603fb&hlc=1&spv=0&amp;name=SkyME$$lsname=Sky Main</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=cedcbe4ae113f2d2042a6a9b07a46c23f78f80ba&hlc=1&spv=0&amp;name=SkyMEHD$$lsname=Sky Main HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event FHD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=96a5f622dbe2da7c451c185dd864c3459a5c5ed8&hlc=1&spv=0&amp;name=Eleven1$$lsname=Eleven1</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=1bebe2aa63d711d3f180af0e3f88c803f3904381&hlc=1&spv=0&amp;name=Eleven2$$lsname=Eleven2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
 </item>
 
 <item><title>Camarote Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=Camarote07$$lsname=Camarote 07</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
@@ -119,35 +139,6 @@
 <link>http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&hlc=1&spv=0&amp;name=Camarote39$$lsname=Camarote 39</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
 </item>
-
-
-<item><title>TVCine 1</title><thumbnail>https://i.imgur.com/zrVPsjp.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1111.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
-
-<item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1110.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
-
-<item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1109.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
-
-<item><title>TVCine 4</title><thumbnail>https://i.imgur.com/mmiGEd6.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1108.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
-
-<item><title>TVSeries</title><thumbnail>https://i.imgur.com/BckgUU6.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1107.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
-
-<item><title>HBO</title>
-<thumbnail>https://i.imgur.com/NB40ipS.png</thumbnail>
-<fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
-<sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
-<sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
-<referer></referer></item>
-
-
-
-
-
-
 
 
 
