@@ -119,7 +119,8 @@
 <item><title>Camarote Premium</title>
 <thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=SKY$$lsname=NBCSN</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=1bebe2aa63d711d3f180af0e3f88c803f3904381&hlc=1&spv=0&amp;name=11$$lsname=Eleven2</link>
 </item>
 
 <item><title>Camarote Platinum</title>
