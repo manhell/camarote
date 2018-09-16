@@ -46,8 +46,9 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
+<sportsdevil>http://livestream4u.pw/reddit/sporttv1.php</sportsdevil>
+<sportsdevil>http://sslsports.co/soccer-streams/sporttv1portugal.php</sportsdevil>
 <referer></referer></item>
-
 
 <item><title>Sport TV 2</title>
 <thumbnail>https://i.imgur.com/QES8sdA.png</thumbnail>
@@ -55,6 +56,8 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
+<sportsdevil>http://livestream4u.pw/reddit/sporttv2.php</sportsdevil>
+<sportsdevil>http://sslsports.co/soccer-streams/sporttv2portugal.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 3</title>
@@ -63,6 +66,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
+<sportsdevil>http://livestream4u.pw/reddit/sporttv3.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 4</title>
@@ -71,6 +75,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv4.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
+<sportsdevil>http://livestream4u.pw/reddit/sporttv4.php</sportsdevil>
 <referer></referer></item>
 
 <item><title>Sport TV 5</title>
@@ -79,6 +84,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv5.html</sportsdevil>
+<sportsdevil>http://livestream4u.pw/reddit/sporttv5.php</sportsdevil>
 <referer></referer></item>
 
 
@@ -103,15 +109,16 @@
 
 
 
-<item><title>Camarote Premium</title>
-<thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event</link>
+<item><title>Camarote Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event FHD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=090f5f4e8a288db3e61090d412c29c17b9e603fb&hlc=1&spv=0&amp;name=SkyME$$lsname=Sky Main</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=cedcbe4ae113f2d2042a6a9b07a46c23f78f80ba&hlc=1&spv=0&amp;name=SkyMEHD$$lsname=Sky Main HD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1bebe2aa63d711d3f180af0e3f88c803f3904381&hlc=1&spv=0&amp;name=11$$lsname=Eleven2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=96a5f622dbe2da7c451c185dd864c3459a5c5ed8&hlc=1&spv=0&amp;name=Eleven1$$lsname=Eleven1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=1bebe2aa63d711d3f180af0e3f88c803f3904381&hlc=1&spv=0&amp;name=Eleven2$$lsname=Eleven2</link>
 </item>
 
-<item><title>Camarote Platinum</title>
-<thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
+<item><title>Camarote Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
