@@ -6,7 +6,7 @@
 <item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2dark.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8;streamtype=HLSRETRY&amp;name=RTP2</link></item>
 
-<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicdark.jpg</thumbnail>
+<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicdark.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://live.impresa.pt/live/sic/sic540p.m3u8;streamtype=HLSRETRY&amp;name=SIC</link></item>
 
 <item><title>TVI</title><thumbnail>https://i.imgur.com/ZPsjQU8.png</thumbnail>
@@ -46,7 +46,7 @@
 <sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
 <referer>$$lsname=HBO</referer></item>
 
-<item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/boladark.jpg</thumbnail>
+<item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/bolatv.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
 
 <item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
@@ -60,7 +60,7 @@
 </item>
 
 <item><title>BTV SD</title>
-<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btvdark.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btv.jpg</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
