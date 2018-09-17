@@ -26,6 +26,15 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Fm8wmC2.png",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/vXuTguy.png",FS2
+http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_fox2us_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest?cb=20150803005255" group-title="Desporto",NFL NOW 
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" group-title="Desporto",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="Desporto",SPORTV
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
