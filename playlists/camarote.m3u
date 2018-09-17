@@ -55,25 +55,27 @@ http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",rtp
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",rtp
-plugin://plugin.video.f4mTester/?name=ALADO&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",RTP 2
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/Rvku3dH.png" tvg-id="sic.pt",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",RTP 3
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/qQnhgDw.png" tvg-id="TVI24.pt",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/KURIAKOSTV.png",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8

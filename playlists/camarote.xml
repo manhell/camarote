@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=ALADO&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link>
-</item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
 
 <item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2dark.png</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
 
 <item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicdark.png</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 
 <item><title>TVI</title><thumbnail>https://i.imgur.com/ZPsjQU8.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5241.m3u8;streamtype=HLSRETRY&amp;name=TVI</link></item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5241.m3u8</link></item>
 
 <item><title>SIC Noticias</title><thumbnail>https://i.imgur.com/nGpUWQ2.png</thumbnail>
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
 <item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp3.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=rtp3&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
 
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
@@ -29,7 +28,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5252.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
 
 <item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5249.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=https://opus.re/allfrtvstrm/tkn/newcrab/ZGHmAmN4BGV2BP0kAGZ3ZGZlZQL4YGx1L2Z2AJD2AQMwBQplAzMvZTWuMTZmMJMyZQR4MzIzYJD0ZmEuLmt4ZGDlBQtkA2IzLzEuBQAuAQZlLzR5ZQRk/index.m3u8?id=3806</link></item>
 
 <item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5246.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
