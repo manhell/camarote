@@ -8,6 +8,19 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liver
 
 
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/Rvku3dH.png" tvg-id="sic.pt",SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",SIC Noticias
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/qQnhgDw.png" tvg-id="TVI24.pt",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+
+
 
 #EXTINF:-1 group-title="PT" tvg-logo="https://i.imgur.com/ZPsjQU8.png" tvg-id="TVI.pt",TVI
 http://5.189.187.55:8000/live/Fadil/skype/1055.m3u8
@@ -117,19 +130,6 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26146.m3u8
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3914.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/NB40ipS.png",HBO HD
-http://127.0.0.1:6878/ace/getstream?id=90ae7552862cf518f5d63c2cd95ef3a2c4106454&hlc=1&spv=0
-
-
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/VsTPv9c.png",BBC One
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/bocUypw.png",ITV
-http://185.59.221.136:9981/stream/channelid/650783408
 
 
 
@@ -295,32 +295,6 @@ http://sportsbar.pw/lba/123/g9/TSN5.m3u8
 
 
 
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9hGyF74.jpg",AMC
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/133/index.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9RvNmr5.png",CBS
-http://portal.simiptv.com:8001/live/Amin/Amin/19930.m3u8
-
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/Z6exqa5.png",NBC
-http://portal.simiptv.com:8001/live/Amin/Amin/19888.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/05jETsd.png",MGM
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/155/index.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/fL89XXM.jpg",Paramount
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/62/index.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/X41FvPs.jpg",Sundance
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/888/index.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/ueORmxa.png",TNT Film
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/741/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="ES" tvg-logo="https://i.imgur.com/BSQsuUv.png",LaLiga TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
@@ -343,44 +317,47 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/inde
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/LKQGNxj.png",Rai Sport
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/528/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/0yNBd9k.png",Viasat Sport
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/45/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qTTROGf.png",Sky Bundesliga
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qTTROGf.png",Sky Bundesliga
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/724/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/4WAWQGl.png",Sky Sport 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/SfbWMD2.png",Sky Sport 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/CnOHpqk.png",Sport 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/MJYbqEz.png",Sport 1+
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/701/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/LL8HgBd.png",Football 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/867/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/H7yfQ2v.png",Football 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/868/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/MjhwmPh.png",Match! Football 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/29/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/NDn1Lyo.png",Match! Football 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/23/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/NB40ipS.png",HBO HD
+http://127.0.0.1:6878/ace/getstream?id=90ae7552862cf518f5d63c2cd95ef3a2c4106454&hlc=1&spv=0
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8o5KDeA.png",Match! Football 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/24/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/DAEUWS5.png",Match!
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/200/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/696ZfVQ.png",Match! Arena
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/1/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/VsTPv9c.png",BBC One
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/bocUypw.png",ITV
+http://185.59.221.136:9981/stream/channelid/650783408
+
+
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9hGyF74.jpg",AMC
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/133/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9RvNmr5.png",CBS
+http://portal.simiptv.com:8001/live/Amin/Amin/19930.m3u8
+
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/Z6exqa5.png",NBC
+http://portal.simiptv.com:8001/live/Amin/Amin/19888.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/05jETsd.png",MGM
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/155/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/fL89XXM.jpg",Paramount
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/62/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/X41FvPs.jpg",Sundance
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/888/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/ueORmxa.png",TNT Film
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/741/index.m3u8

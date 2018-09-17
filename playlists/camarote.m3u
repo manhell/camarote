@@ -69,13 +69,13 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL",KURIAKOS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/KURIAKOS.png" group-title="PORTUGAL",KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL",KURIAKOS CINE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/KURIAKOSCINE.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",CANAL 180
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/CANAL180.png" group-title="PORTUGAL",CANAL 180
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 
 
