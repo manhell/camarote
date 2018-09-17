@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg</thumbnail>
+<item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1.jpg</thumbnail>
 <link>https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play</link></item>
 
-<item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2dark.png</thumbnail>
+<item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2.jpg</thumbnail>
 <link>https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play</link></item>
 
-<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicdark.png</thumbnail>
+<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sic.jpg</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 
 <item><title>TVI</title><thumbnail>https://i.imgur.com/ZPsjQU8.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5241.m3u8</link></item>
 
-<item><title>SIC Noticias</title><thumbnail>https://i.imgur.com/nGpUWQ2.png</thumbnail>
+<item><title>SIC Noticias</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicnot.jpg</thumbnail>
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
 <item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp3.jpg</thumbnail>
