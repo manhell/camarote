@@ -44,7 +44,7 @@
 <fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
 <sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
 <sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=HBO</referer></item>
 
 <item><title>A Bola TV</title><thumbnail>https://i.imgur.com/BMz1e7j.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
@@ -76,7 +76,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Sport TV 1</referer></item>
 
 <item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1hd.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link></item>
@@ -88,7 +88,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Sport TV 2</referer></item>
 
 <item><title>Sport TV 2 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2hd.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=Camarote7</link></item>
@@ -99,7 +99,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Sport TV 3</referer></item>
 
 <item><title>Sport TV 4 SD</title>
 <thumbnail>https://i.imgur.com/qjk8SSi.png</thumbnail>
@@ -107,7 +107,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv4.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Sport TV 4</referer></item>
 
 <item><title>Sport TV 5 SD</title>
 <thumbnail>https://i.imgur.com/uS8vUKx.png</thumbnail>
@@ -115,7 +115,7 @@
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv5.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Sport TV 5</referer></item>
 
 
 
