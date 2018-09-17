@@ -20,10 +20,10 @@ http://77.54.248.94:9981/stream/channelid/806400516
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Vd2Plnq.png",ESPN
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/espn.png",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Fm8wmC2.png",ESPN 2
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/espn2.png",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/FS2.png",FS2
