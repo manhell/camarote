@@ -5,7 +5,7 @@
 </item>
 
 <item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2dark.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8&amp;name=RTP3</link></item>
+<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8</link></item>
 
 <item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicdark.png</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
@@ -70,6 +70,12 @@
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
+<link>plugin://plugin.video.f4mTester/?url=https://opus.re/allfrtvstrm/tkn/newcrab/ZGHmAmNjZmVmAF0kAGZ3ZQD2ZQZ1YJR3ZTLjATRmZwVkLzAxLzIuZwH0BJL1A2H1BGZ1AmuvYJD0ZmEuLmt4ZGDlBQtkA2IzLzEuBQAuAQZlLzR5ZQRk/index.m3u8?id=3828;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6108.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6110.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6109.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6111.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://giantofthefuture.gleeze.com:25461/live/gustavo/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 5 </link>
 </item>
 
 <item><title>Sport TV 1 SD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1.png</thumbnail>
