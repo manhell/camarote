@@ -25,19 +25,19 @@
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5351.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
 <item><title>TVCine 1</title><thumbnail>https://i.imgur.com/zrVPsjp.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1111.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5252.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
 
 <item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1110.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5249.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
 
 <item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1109.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5246.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
 
 <item><title>TVCine 4</title><thumbnail>https://i.imgur.com/mmiGEd6.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1108.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5244.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
 
 <item><title>TVSeries</title><thumbnail>https://i.imgur.com/BckgUU6.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1107.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5242.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
 
 <item><title>HBO</title>
 <thumbnail>https://i.imgur.com/NB40ipS.png</thumbnail>
@@ -64,7 +64,7 @@
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
-<referer></referer></item>
+<referer>$$lsname=Benfica TV</referer></item>
 
 <item><title>Sport TV 1</title><thumbnail>https://i.imgur.com/DoqD7Aq.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
