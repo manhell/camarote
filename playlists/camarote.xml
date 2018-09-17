@@ -16,7 +16,7 @@
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
 <item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp3.jpg</thumbnail>
-<link>https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play</link></item>
+<link>plugin://plugin.video.f4mTester/?name=Camarote&streamtype=HLSRETRY&amp;url=http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
 
 <item><title>TVI 24</title><thumbnail>https://i.imgur.com/qQnhgDw.png</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
@@ -157,14 +157,8 @@
 
 
 <item><title>Camarote Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=090f5f4e8a288db3e61090d412c29c17b9e603fb&hlc=1&spv=0&amp;name=SkyME$$lsname=Sky Main</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=cedcbe4ae113f2d2042a6a9b07a46c23f78f80ba&hlc=1&spv=0&amp;name=SkyMEHD$$lsname=Sky Main HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1a755a1914fe77cb52898c9f67f501f7c3c5bbaf&hlc=1&spv=0&amp;name=SKY$$lsname=Sky Main Event FHD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=96a5f622dbe2da7c451c185dd864c3459a5c5ed8&hlc=1&spv=0&amp;name=Eleven1$$lsname=Eleven1</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1bebe2aa63d711d3f180af0e3f88c803f3904381&hlc=1&spv=0&amp;name=Eleven2$$lsname=Eleven2</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=71d9ee8a2199898a0707164d4589f5f52d17cd9e&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=7258144c260e8baa4315581d4efb7cc078905d31&hlc=1&spv=0&amp;name=RedZone$$lsname=RedZone</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=3a52adf07a943eddde7f27ac428a832270c9c7dc&hlc=1&spv=0&amp;name=FoxBoston$$lsname=Fox Boston</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=52b29b3226deb14daa35705805ff8c7974857ad6&hlc=1&spv=0&amp;name=SkyME$$lsname=Sky Main</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=3747f58def1b06cec3ffbe259e2f50c34b3e7ca4&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
 </item>
 
 <item><title>Camarote Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
