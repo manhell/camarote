@@ -69,13 +69,13 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/KURIAKOS.png",Kuriakos TV
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/KURIAKOS.jpg",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/KURIAKOSCINE.png",Kuriakos Cine
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/KURIAKOSCINE.jpg",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/CANAL180.png",Canal 180
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/CANAL180.jpg",Canal 180
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 
 
@@ -111,17 +111,17 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.png" group-title="Musica",DJING Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.jpg" group-title="Musica",DJING Hits
 http://www.djing.com/tv/hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.png" group-title="Musica",DJING Dance Floor
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.jpg" group-title="Musica",DJING Dance Floor
 http://djing.com/tv/dancefloor.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.png" group-title="Musica",DJING Classic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.jpg" group-title="Musica",DJING Classic
 http://djing.com/tv/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.png" group-title="Musica",DJING Ibiza
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.jpg" group-title="Musica",DJING Ibiza
 http://djing.com/tv/ibiza.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/DJingHot.png" group-title="Musica",DJING Hot
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djinghot.png" group-title="Musica",DJING Hot
 http://djing.com/tv/hot.m3u8
