@@ -122,6 +122,3 @@ http://djing.com/tv/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/djing.jpg" group-title="Musica",DJING Ibiza
 http://djing.com/tv/ibiza.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/DJingHot.png" group-title="Musica",DJING Hot
-http://djing.com/tv/hot.m3u8
