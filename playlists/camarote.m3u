@@ -1,23 +1,25 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",RTP 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1.jpg",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1dark.jpg",RTP 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2.jpg",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/Rvku3dH.png" tvg-id="sic.pt",SIC
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sic.jpg" tvg-id="sic.pt",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/tvi.jpg" tvg-id="TVI.pt",TVI
+http://5.189.187.55:8000/live/Fadil/skype/1055.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",SIC Noticias
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sicnot.jpg",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/nGpUWQ2.png" tvg-id="sicnoticias.pt",RTP 3
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtpn.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp3.jpg",RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/qQnhgDw.png" tvg-id="TVI24.pt",TVI 24
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/tvi24.jpg" tvg-id="TVI24.pt",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://i.imgur.com/qlGz6BZ.png",SIC Radical
