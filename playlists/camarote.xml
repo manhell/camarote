@@ -49,7 +49,7 @@
 <item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/bolatv.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://178.132.5.243:25461/live/Lara/1234/1010.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
 
-<item><title>Sport TV +</title><thumbnail>https://i.imgur.com/y16ZWfQ.png</thumbnail>
+<item><title>Sport TV +</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv+.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5279.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>BTV</title>
@@ -86,7 +86,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://giantofthefuture.gleeze.com:25461/live/gustavo/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 5 </link>
 </item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1blk.png</thumbnail>
+<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1blk.jpg</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link></item>
 
 
