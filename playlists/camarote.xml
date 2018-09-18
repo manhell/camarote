@@ -21,26 +21,26 @@
 <item><title>TVI 24</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvi24.jpg</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
 
-<item><title>CMTV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/CM.jpg</thumbnail>
+<item><title>CMTV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/cmtv.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5351.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
-<item><title>TVCine 1</title><thumbnail>https://i.imgur.com/zrVPsjp.png</thumbnail>
+<item><title>TVCine 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc1.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5252.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
 
-<item><title>TVCine 2</title><thumbnail>https://i.imgur.com/w4jbWeC.png</thumbnail>
+<item><title>TVCine 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc2.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=https://opus.re/allfrtvstrm/tkn/newcrab/ZGHmAmN4BGV2BP0kAGZ3ZGZlZQL4YGx1L2Z2AJD2AQMwBQplAzMvZTWuMTZmMJMyZQR4MzIzYJD0ZmEuLmt4ZGDlBQtkA2IzLzEuBQAuAQZlLzR5ZQRk/index.m3u8?id=3806</link></item>
 
-<item><title>TVCine 3</title><thumbnail>https://i.imgur.com/8JgbCCi.png</thumbnail>
+<item><title>TVCine 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc3.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5246.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
 
-<item><title>TVCine 4</title><thumbnail>https://i.imgur.com/mmiGEd6.png</thumbnail>
+<item><title>TVCine 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc4.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5244.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
 
-<item><title>TVSeries</title><thumbnail>https://i.imgur.com/BckgUU6.png</thumbnail>
+<item><title>TVSeries</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvseries.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5242.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
 
 <item><title>HBO</title>
-<thumbnail>https://i.imgur.com/NB40ipS.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/hbo.jpg</thumbnail>
 <fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
 <sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
 <sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
