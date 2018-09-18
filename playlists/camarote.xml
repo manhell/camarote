@@ -153,21 +153,26 @@
 
 
 
-<item><title>Camarote Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
+<item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=52b29b3226deb14daa35705805ff8c7974857ad6&hlc=1&spv=0&amp;name=SkyME$$lsname=Sky Main</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=3747f58def1b06cec3ffbe259e2f50c34b3e7ca4&hlc=1&spv=0&amp;name=NBCSN$$lsname=NBCSN</link>
 </item>
 
-<item><title>Camarote Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=Camarote07$$lsname=Camarote 07</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&hlc=1&spv=0&amp;name=Camarote09$$lsname=Camarote 09</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=Camarote21$$lsname=Camarote 21</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=Camarote23$$lsname=Camarote 23</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=5a804fb006d500de854ffd520253c6b6661f946d&hlc=1&spv=0&amp;name=Camarote33$$lsname=Camarote 33</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=Camarote35$$lsname=Camarote 35</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=Camarote37$$lsname=Camarote 37</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=8fd5cd0057ea9b18a241802b89c4740046773323=1&spv=0&amp;name=Camarote39$$lsname=Camarote 39</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=Camarote41$$lsname=Camarote 41</link>
+<item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=6a703df0f20ce6b041b1729d18722a3a131604ca&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 1e2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 3e4</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=211a04b9d9c13e5717b8be7fd63d6f9ab1eba761&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 5e6</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 7e8</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 9</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 10e11</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 13e14</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=c84c51d53c2dbada993610da74e4a45b87210df2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 15e16</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 21e22</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 23e24</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 25e26</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 33e34</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 35e36</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 37e38</link>
 </item>
 
 
