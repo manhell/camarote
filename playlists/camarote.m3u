@@ -25,7 +25,7 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sicrad.jpg",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/portocanal.jpg" tvg-id="PortoCanal.pt",Porto Canal
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/portocanal.jpg" tvg-id="PortoCanal.pt",Porto Canal
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1.jpg" tvg-id="sporttv1.pt",Sport TV 1
