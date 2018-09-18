@@ -45,7 +45,7 @@ http://77.54.248.94:9981/stream/channelid/806400516
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1
 http://62.210.214.28:80/live?channelId=140&deviceMac=00:1A:79:3C:CA:45&uid=6511
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 HD
 http://62.210.214.28:80/live?channelId=141&deviceMac=00:1A:79:3C:CA:45&uid=6511
@@ -83,10 +83,10 @@ http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:3C:CA:45&uid=65
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/fs2.jpg",FS 2
 http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_fox2us_360p/chunks.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/ESPN.png",ESPN
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/espn.jpg",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/ESPN2.png",ESPN 2
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/espn2.jpg",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/NFL-Now.png" group-title="Desporto",NFL Now
