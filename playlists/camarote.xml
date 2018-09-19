@@ -25,19 +25,19 @@
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>TVCine 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc1.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1401.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>TVCine 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc2.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1403.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1403.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>TVCine 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc3.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1405.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1405.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>TVCine 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc4.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1407.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1407.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>TVSeries</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvseries.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1399.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1399.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>HBO</title>
 <thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/hbo.jpg</thumbnail>
@@ -47,10 +47,10 @@
 <referer>$$lsname=HBO</referer></item>
 
 <item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/bolatv.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>Sport TV +</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv+.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8</link></item>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
 <item><title>BTV</title>
 <thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btv.jpg</thumbnail>
@@ -63,8 +63,8 @@
 <item><title>BTV HD</title>
 <thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btv.png</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?name=camarote&streamtype=HLSRETRY&amp;url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1354.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1354.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
 </item>
 
 
@@ -162,11 +162,7 @@
 <link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
 
-acestream:// [HD] [BT Sport 1] [EN]
-acestream:// [720p 60FPS] [TNT] [EN]
-[TNT] [720p60] acestream://
-[BT Sport] [1080p] acestream://
-[BT Sport] [520p] acestream://
+
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
