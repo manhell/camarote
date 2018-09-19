@@ -171,15 +171,8 @@
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=9a4c351b4c34e017cf9b2781898fc50f7df7de6c&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 1</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1b9e616611cd546cc354bb9bbed127e183d699f8&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 1 FHD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b68c829fed6a2c91bc3fc7743a45e46d7627ab81&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 1 FHD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=9d6c11fec05de6b695c9c1850ecf6446da782ab5&hlc=1&spv=0&amp;name=camarote$$lsname=TNT</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=cd23d0954b6406d51c4e115f324eb7c5c3839ed1&hlc=1&spv=0&amp;name=camarote$$lsname=TNT</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=3326847b38d3d66cc7f4d449f6919472402c2d75&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 3</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=5459f7ff7b9dbe5ebfd68225c64c18d97a764ca9&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 3</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1a66a884a00db24ca436eae4be38907c55d1eecc&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 3 HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=8ce5fa75613103fc8a549db9b30e254bc23e5e06&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 3 FHD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=531e6e5d5310169461d9114731bf205b8001de65&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport ESPN</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=dd5279ad62ec5a261b667ec303f9ca3c4be35f28&hlc=1&spv=0&amp;name=camarote$$lsname=TNT</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
