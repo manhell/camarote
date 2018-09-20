@@ -86,8 +86,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://giantofthefuture.gleeze.com:25461/live/gustavo/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 5 </link>
 </item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1blk.jpg</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=Camarote17</link></item>
 
 
 <item><title>Sport TV 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2.jpg</thumbnail>
@@ -154,19 +152,21 @@
 
 <item><title>BT Sport 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport1.png</thumbnail>
 <sportsdevil>http://vipbench.xyz/btsport1.php</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/bt1.php</sportsdevil>
+<sportsdevil>http://www.dubs.to/stream/bts1.php</sportsdevil>
 <referer>$$lsname=BT Sport 1 SD</referer></item>
 
 <item><title>BT Sport 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport2hd.png</thumbnail>
+<sportsdevil>http://www.time4tv.net/2017/04/bt-sport-2.php</sportsdevil>
 <sportsdevil>http://vipbench.xyz/btsport2.php</sportsdevil>
-<sportsdevil>http://livestream4u.pw/reddit/bt2.php</sportsdevil>
+<sportsdevil>http://www.dubs.to/stream/bts2.php</sportsdevil>
 <referer>$$lsname=BT Sport 2 SD</referer></item>
 
 
 
 <item><title>BT Sport 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport3.png</thumbnail>
-<sportsdevil>http://bankai.stream/rnaw1.php</sportsdevil>
-<sportsdevil>http://whostreams.net/embed/8u8acv17o</sportsdevil>
+<sportsdevil>http://www.time4tv.net/2017/06/bt-sport-3.php</sportsdevil>
+<sportsdevil>http://vipbench.xyz/btsport3.php</sportsdevil>
+<sportsdevil>http://www.dubs.to/stream/bts3.php</sportsdevil>
 <referer>$$lsname=BT Sport 3 SD</referer></item>
 
 <item><title>BT Sport ESPN</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsportespn.png</thumbnail>
@@ -177,38 +177,43 @@
 
 
 
-
 <item><title>Fox Sports 506</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
 
 
+<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1blk.jpg</thumbnail>
+
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=531e6e5d5310169461d9114731bf205b8001de65&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport ESPN</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=024b571c61484c4f31f2a07ef831a557e1eb32d6&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=032c6b3b2802121eaa999a47d499b6428345d4b8&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=affd0aa048580efcfc051b43610d5c0d2849bbaa&hlc=1&spv=0&amp;name=camarote$$lsname=TNT</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=dd5279ad62ec5a261b667ec303f9ca3c4be35f28&hlc=1&spv=0&amp;name=camarote$$lsname=TNT</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=35dd0c9aac23af8a5b317c55ac2a2cdb76511947&hlc=1&spv=0&amp;name=camarote$$lsname=RAI1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=dd2ded7992c9222ca4e02f7dad3574102c1ab6f8&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=e85a88a54a63ce8eb6a6cfc54bcf7340b940357d&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=0a472c9740e7165147f45ae37e86ed79fb0ea200&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=3dbc5b4731682e552b40be04740b1cc5ce919b75&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=6ba2331bff52bee6731bdd6e6da366066a98a7cc&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 FHD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b40f7a70c127ac53147ac2bc406142e55d84f70d&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 FHD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=5068be1949be1860949358f12cde537575cf21b0&hlc=1&spv=0&amp;name=camarote$$lsname=BT3</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b9469626125135c823457699b51b979882f0ebeb&hlc=1&spv=0&amp;name=camarote$$lsname=BT3 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=f0491ca33c2a47e3328d637b41dedb1cf8a2abfc &hlc=1&spv=0&amp;name=camarote$$lsname=BT3 FHD</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 17e18</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=6a703df0f20ce6b041b1729d18722a3a131604ca&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 1e2</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 3e4</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=211a04b9d9c13e5717b8be7fd63d6f9ab1eba761&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 5e6</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 7e8</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 9</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 10e11</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 13e14</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=c84c51d53c2dbada993610da74e4a45b87210df2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 15e16</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 21e22</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 23e24</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 25e26</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 33e34</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 35e36</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 37e38</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 10e11</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 13e14</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=c84c51d53c2dbada993610da74e4a45b87210df2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 15e16</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 21e22</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 23e24</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 25e26</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 33e34</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 35e36</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 37e38</link>
 </item>
 
 
