@@ -141,38 +141,6 @@
 </item>
 
 
-<item><title>Eleven Sports 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/eleven1.png</thumbnail>
-<sportsdevil>http://hdstreams.club/page/ch9.php</sportsdevil>
-<sportsdevil>http://elixx.me/porto.html</sportsdevil>
-<sportsdevil>http://topstreams.info/tv/br1</sportsdevil>
-<sportsdevil>http://streamcenter.club/hd/ch19.php</sportsdevil>
-<referer>$$lsname=Eleven Sports 1 SD</referer></item>
-
-
-
-<item><title>BT Sport 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport1.png</thumbnail>
-<sportsdevil>http://vipbench.xyz/btsport1.php</sportsdevil>
-<sportsdevil>http://www.dubs.to/stream/bts1.php</sportsdevil>
-<referer>$$lsname=BT Sport 1 SD</referer></item>
-
-<item><title>BT Sport 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport2hd.png</thumbnail>
-<sportsdevil>http://www.time4tv.net/2017/04/bt-sport-2.php</sportsdevil>
-<sportsdevil>http://vipbench.xyz/btsport2.php</sportsdevil>
-<sportsdevil>http://www.dubs.to/stream/bts2.php</sportsdevil>
-<referer>$$lsname=BT Sport 2 SD</referer></item>
-
-
-
-<item><title>BT Sport 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsport3.png</thumbnail>
-<sportsdevil>http://www.time4tv.net/2017/06/bt-sport-3.php</sportsdevil>
-<sportsdevil>http://vipbench.xyz/btsport3.php</sportsdevil>
-<sportsdevil>http://www.dubs.to/stream/bts3.php</sportsdevil>
-<referer>$$lsname=BT Sport 3 SD</referer></item>
-
-<item><title>BT Sport ESPN</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btsportespn.png</thumbnail>
-<sportsdevil>http://whostreams.net/embed/ip612dqkq8yq980</sportsdevil>
-<sportsdevil>http://whostreams.net/embed/8u8acv17o</sportsdevil>
-<referer>$$lsname=BT Sport ESPN SD</referer></item>
 
 
 
@@ -186,7 +154,6 @@
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=021d05c01c89aa20c1ccf65cb21a2789ee02b22a&hlc=1&spv=0&amp;name=camarote$$lsname=bt</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=94ebbce8386fd33a4268f86046cbeded235fe2bf&hlc=1&spv=0&amp;name=camarote$$lsname=eleven1</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=5173c92aab9e7c7ea568564b79d9d1acac649dbf&hlc=1&spv=0&amp;name=camarote$$lsname=NBC</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=2381467851f911943844672b434b504e0099a52a&hlc=1&spv=0&amp;name=camarote$$lsname=TSN4</link>
