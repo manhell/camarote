@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp1.jpg</thumbnail>
+<item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp1.jpg</thumbnail>
 <link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link></item>
 
-<item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp2.jpg</thumbnail>
+<item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp2.jpg</thumbnail>
 <link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
 
-<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sic.jpg</thumbnail>
+<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sic.jpg</thumbnail>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 
-<item><title>TVI</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvi.jpg</thumbnail>
+<item><title>TVI</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvi.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/4.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
 
-<item><title>SIC Noticias</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sicnot.jpg</thumbnail>
+<item><title>SIC Noticias</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sicnot.jpg</thumbnail>
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
 
-<item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/rtp3.jpg</thumbnail>
+<item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp3.jpg</thumbnail>
 <link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
 
-<item><title>TVI 24</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvi24.jpg</thumbnail>
+<item><title>TVI 24</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvi24.jpg</thumbnail>
 <link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
 
-<item><title>CMTV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/cmtv.jpg</thumbnail>
+<item><title>CMTV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/cmtv.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
 
-<item><title>TVCine 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc1.jpg</thumbnail>
+<item><title>TVCine 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvc1.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/25.m3u8;streamtype=HLSRETRY&amp;name=TVC1</link></item>
 
-<item><title>TVCine 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc2.jpg</thumbnail>
+<item><title>TVCine 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvc2.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/26.m3u8;streamtype=HLSRETRY&amp;name=TVC2</link></item>
 
-<item><title>TVCine 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc3.jpg</thumbnail>
+<item><title>TVCine 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvc3.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/27.m3u8;streamtype=HLSRETRY&amp;name=TVC3</link></item>
 
-<item><title>TVCine 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvc4.jpg</thumbnail>
+<item><title>TVCine 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvc4.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/28.m3u8;streamtype=HLSRETRY&amp;name=TVC4</link></item>
 
-<item><title>TVSeries</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/tvseries.jpg</thumbnail>
+<item><title>TVSeries</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvseries.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/29.m3u8;streamtype=HLSRETRY&amp;name=TVS</link></item>
 
 <item><title>HBO</title>
-<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/hbo.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/hbo.jpg</thumbnail>
 <fanart>http://digitalmediawire.com/wp-content/uploads/2016/09/HBO.jpg</fanart>
 <sportsdevil>http://www.time4tv.net/2016/03/hbo.php</sportsdevil>
 <sportsdevil>https://www.stream2watch.org/live/hbo-us-live-stream</sportsdevil>
 <referer>$$lsname=HBO</referer></item>
 
-<item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/bolatv.jpg</thumbnail>
+<item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/bolatv.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
 
-<item><title>Sport TV +</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv+.jpg</thumbnail>
+<item><title>Sport TV +</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv+.jpg</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
 
 <item><title>BTV</title>
-<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btv.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/btv.jpg</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
 <sportsdevil>http://ligatuga.com/btva.html</sportsdevil>
@@ -61,81 +61,75 @@
 <referer>$$lsname=Benfica TV</referer></item>
 
 <item><title>BTV HD</title>
-<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/btv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/btv.png</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
 <link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1354.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
 </item>
 
 
-<item><title>Sport TV 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1.jpg</thumbnail>
+<item><title>Sport TV 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv1.jpg</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <sportsdevil>http://sportzonline.xyz/channels/pt/sporttv1.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
 <referer>$$lsname=Sport TV 1 SD</referer></item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=https://opus.re/allfrtvstrm/tkn/newcrab/ZGHmAmNjZmVmAF0kAGZ3ZQD2ZQZ1YJR3ZTLjATRmZwVkLzAxLzIuZwH0BJL1A2H1BGZ1AmuvYJD0ZmEuLmt4ZGDlBQtkA2IzLzEuBQAuAQZlLzR5ZQRk/index.m3u8?id=3828;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6108.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6110.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6109.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6111.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1- Link 4</link>
-<link>plugin://plugin.video.f4mTester/?url=http://giantofthefuture.gleeze.com:25461/live/gustavo/1234/1098.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1 HD- Link 5 </link>
+<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv1hd.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6108.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6110.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1</link>
 </item>
 
 
 
-<item><title>Sport TV 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2.jpg</thumbnail>
+<item><title>Sport TV 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv2.jpg</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live2-bipmr</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
 <referer>$$lsname=Sport TV 2 SD</referer></item>
 
-<item><title>Sport TV 2 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2hd.png</thumbnail>
+<item><title>Sport TV 2 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv2hd.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 </item>
 
 
-<item><title>Sport TV 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv3.jpg</thumbnail>
+<item><title>Sport TV 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv3.jpg</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
 <referer>$$lsname=Sport TV 3 SD</referer></item>
 
-<item><title>Sport TV 3 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv3hd.png</thumbnail>
+<item><title>Sport TV 3 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv3hd.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 </item>
 
 
 
-<item><title>Sport TV 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv4.jpg</thumbnail>
+<item><title>Sport TV 4</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv4.jpg</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live4-w04by</sportsdevil>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv4.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
 <referer>$$lsname=Sport TV 4 SD</referer></item>
 
-<item><title>Sport TV 4 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv4hd.png</thumbnail>
+<item><title>Sport TV 4 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv4hd.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 </item>
 
 
 
-<item><title>Sport TV 5</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv5.jpg</thumbnail>
+<item><title>Sport TV 5</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv5.jpg</thumbnail>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv5.html</sportsdevil>
 <referer>$$lsname=Sport TV 5 SD</referer></item>
 
-<item><title>Sport TV 5 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv5hd.png</thumbnail>
+<item><title>Sport TV 5 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv5hd.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
 </item>
