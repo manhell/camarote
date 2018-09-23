@@ -28,53 +28,6 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/portocanal.jpg" tvg-id="PortoCanal.pt",Porto Canal
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv1.jpg" tvg-id="sporttv1.pt",Sport TV 1
-http://77.54.248.94:9981/stream/channelid/2135667
-
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv2.jpg" tvg-id="sporttv2.pt",Sport TV 2
-http://77.54.248.94:9981/stream/channelid/1550043205
-
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv3.jpg" tvg-id="sporttv3.pt",Sport TV 3
-http://77.54.248.94:9981/stream/channelid/1669467421
-
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv4.jpg" tvg-id="sporttv4.pt",Sport TV 4
-http://77.54.248.94:9981/stream/channelid/2090972347
-
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/sptv5.jpg" tvg-id="sporttv5.pt",Sport TV 5
-http://77.54.248.94:9981/stream/channelid/806400516
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1
-http://62.210.214.28:80/live?channelId=140&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 HD
-http://62.210.214.28:80/live?channelId=141&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2
-http://62.210.214.28:80/live?channelId=142&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2 HD
-http://62.210.214.28:80/live?channelId=143&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT3.png" group-title="INGLATERRA",BT SPORT 3
-http://62.210.214.28:80/live?channelId=144&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT3.png" group-title="INGLATERRA",BT SPORT 3 HD
-http://62.210.214.28:80/live?channelId=145&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN
-http://62.210.214.28:80/live?channelId=146&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN HD
-http://62.210.214.28:80/live?channelId=147&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX1.png" group-title="INGLATERRA",BT SPORT EXTRA 1
-http://62.210.214.28:80/live?channelId=148&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX2.png" group-title="INGLATERRA",BT SPORT EXTRA 2
-http://62.210.214.28:80/live?channelId=149&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX3.png" group-title="INGLATERRA",BT SPORT EXTRA 3
-http://62.210.214.28:80/live?channelId=150&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX4.png" group-title="INGLATERRA",BT SPORT EXTRA 4
-http://62.210.214.28:80/live?channelId=151&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX5.png" group-title="INGLATERRA",BT SPORT EXTRA 5
-http://62.210.214.28:80/live?channelId=152&deviceMac=00:1A:79:3C:CA:45&uid=6511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX6.png" group-title="INGLATERRA",BT SPORT EXTRA 6
-http://62.210.214.28:80/live?channelId=153&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/icons/fs1.jpg" group-title="Desporto",FS 1
