@@ -65,8 +65,8 @@
 <item><title>BTV HD</title>
 <thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/btv.png</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1354.m3u8;streamtype=HLSRETRY&amp;name=camarote</link>
+<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8;streamtype=HLSRETRY&amp;name=camarote$$lsname=BTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://144.217.72.121:8000/live/nova1764/a1764/1437.m3u8;streamtype=HLSRETRY&amp;name=camarote$$lsname=BTV</link>
 </item>
 
 
