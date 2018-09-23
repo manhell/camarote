@@ -58,6 +58,8 @@
 <sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
 <sportsdevil>http://ligatuga.com/btva.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/btv.html</sportsdevil>
+<sportsdevil>http://footballstream.pw/bad/s14.php</sportsdevil>
+<sportsdevil>http://elixx.me/xporto.html</sportsdevil>
 <referer>$$lsname=Benfica TV</referer></item>
 
 <item><title>BTV HD</title>
@@ -139,7 +141,7 @@
 
 
 
-<item><title>Fox Sports 506</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
+<item><title>Fox MotorSports</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
 
@@ -148,14 +150,9 @@
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=86194fbd02c1489120736e3bc7aa471ff53e3895&hlc=1&spv=0&amp;name=camarote$$lsname=SKY</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=61fb431e413057a742e10191a17d19a46595753b&hlc=1&spv=0&amp;name=camarote$$lsname=SKY HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=828304f5887ff7bff16839c10be15cf8fdd67aaa&hlc=1&spv=0&amp;name=camarote$$lsname=SKY FHD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=bf76e6acb3342b422bb84119882e2ac5346cefe6&hlc=1&spv=0&amp;name=camarote$$lsname=NBCSN</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=cc3ef006007a0fbe92b474c156bb5045bf1455a1&hlc=1&spv=0&amp;name=camarote$$lsname=NBCSN FHD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=46c8cc449cd9c50030b2c414b99d3b18f6ce3c16&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=ed361420089d292f06ce3111788c6e312869dc20&hlc=1&spv=0&amp;name=camarote$$lsname=ESPN+</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=2a3bfba5b84ba6e3685a3f20d0ff6dfdec06bd62&hlc=1&spv=0&amp;name=camarote$$lsname=eleven2</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=46c8cc449cd9c50030b2c414b99d3b18f6ce3c16&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
