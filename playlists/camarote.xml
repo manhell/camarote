@@ -147,12 +147,14 @@
 
 
 
+<item><title>Telekanal Futbol</title><thumbnail>http://logowow.net/logos/cOZ4hLEAG.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=7dc17766ea46527b855ca2c827539bb1422c368b&hlc=1&spv=0&amp;name=camarote$$lsname=Telekanal</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&hlc=1&spv=0&amp;name=camarote$$lsname=Telekanal HD</link>
+</item>
 
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&hlc=1&spv=0&amp;name=camarote$$lsname=Telekanal HD</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=7dc17766ea46527b855ca2c827539bb1422c368b&hlc=1&spv=0&amp;name=camarote$$lsname=SLB (ru)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=ed361420089d292f06ce3111788c6e312869dc20&hlc=1&spv=0&amp;name=camarote$$lsname=ESPN+</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=2a3bfba5b84ba6e3685a3f20d0ff6dfdec06bd62&hlc=1&spv=0&amp;name=camarote$$lsname=eleven2</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=46c8cc449cd9c50030b2c414b99d3b18f6ce3c16&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
