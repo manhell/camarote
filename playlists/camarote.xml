@@ -148,11 +148,14 @@
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
+<link>http://127.0.0.1:6878/ace/getstream?id=86194fbd02c1489120736e3bc7aa471ff53e3895&hlc=1&spv=0&amp;name=camarote$$lsname=SKY</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=61fb431e413057a742e10191a17d19a46595753b&hlc=1&spv=0&amp;name=camarote$$lsname=SKY HD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=828304f5887ff7bff16839c10be15cf8fdd67aaa&hlc=1&spv=0&amp;name=camarote$$lsname=SKY FHD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=bf76e6acb3342b422bb84119882e2ac5346cefe6&hlc=1&spv=0&amp;name=camarote$$lsname=NBCSN</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=cc3ef006007a0fbe92b474c156bb5045bf1455a1&hlc=1&spv=0&amp;name=camarote$$lsname=NBCSN FHD</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=46c8cc449cd9c50030b2c414b99d3b18f6ce3c16&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=ed361420089d292f06ce3111788c6e312869dc20&hlc=1&spv=0&amp;name=camarote$$lsname=ESPN+</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=2a3bfba5b84ba6e3685a3f20d0ff6dfdec06bd62&hlc=1&spv=0&amp;name=camarote$$lsname=eleven2</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
@@ -168,6 +171,7 @@
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 21e22</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 23e24</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 25e26</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=4ba00644194a56f946d68074707f5b59743afbab&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 29e30</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 33e34 US</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=505ba82bee69d8f78c6a45f066850a18bc63dd08&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 35e36 US</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=b0b6c17e3aea8c5ce6e6cbc93537375027d31f9a&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 37e38 US</link>
