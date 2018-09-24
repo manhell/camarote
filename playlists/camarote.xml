@@ -157,8 +157,10 @@
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=8071c835b4ef288de71ae8f7eae7fdb5fc73ea54&hlc=1&spv=0&amp;name=camarote$$lsname=SportTV1</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=73606cb9c5d840240374ec6f921c842d044872c2&hlc=1&spv=0&amp;name=camarote$$lsname=GolTV</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=73606cb9c5d840240374ec6f921c842d044872c2&hlc=1&spv=0&amp;name=camarote$$lsname=GolTV</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=344f1dc72f535b056da54f663b0a179f88bad5f5&hlc=1&spv=0&amp;name=camarote$$lsname=bein</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=dfb54870e52d3ae532236537a294950d07f8c033&hlc=1&spv=0&amp;name=camarote$$lsname=bein1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=6ac7d08d77290c801879e9242d3662c4977b4789&hlc=1&spv=0&amp;name=camarote$$lsname=Sky</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
