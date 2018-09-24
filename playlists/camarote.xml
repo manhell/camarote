@@ -155,14 +155,10 @@
 
 
 <item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=801d868891df82c8922e66bb00613e3b5d0a2604&hlc=1&spv=0&amp;name=camarote$$lsname=foxnfl</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=fd64a6b8ab5200a2a060346128984bc5951e5612&hlc=1&spv=0&amp;name=camarote$$lsname=fox</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1fed746b5c3f86745c4a625ff9c7dd898f95afb8&hlc=1&spv=0&amp;name=camarote$$lsname=nfl</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=6a5555f28473f75fa798dbb88ebf170634089109&hlc=1&spv=0&amp;name=camarote$$lsname=bein</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=9d993578e8f193a3b5159eb3762eae70504beb0c&hlc=1&spv=0&amp;name=camarote$$lsname=bein11</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=ed361420089d292f06ce3111788c6e312869dc20&hlc=1&spv=0&amp;name=camarote$$lsname=ESPN+</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=2a3bfba5b84ba6e3685a3f20d0ff6dfdec06bd62&hlc=1&spv=0&amp;name=camarote$$lsname=eleven2</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=46c8cc449cd9c50030b2c414b99d3b18f6ce3c16&hlc=1&spv=0&amp;name=camarote$$lsname=BT Sport 2 HD</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=344f1dc72f535b056da54f663b0a179f88bad5f5&hlc=1&spv=0&amp;name=camarote$$lsname=bein</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=dfb54870e52d3ae532236537a294950d07f8c033&hlc=1&spv=0&amp;name=camarote$$lsname=bein1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=8071c835b4ef288de71ae8f7eae7fdb5fc73ea54&hlc=1&spv=0&amp;name=camarote$$lsname=SportTV1</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=73606cb9c5d840240374ec6f921c842d044872c2&hlc=1&spv=0&amp;name=camarote$$lsname=GolTV</link>
 </item>
 
 <item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
