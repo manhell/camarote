@@ -78,10 +78,6 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv1.html</sportsdevil>
 <referer>$$lsname=Sport TV 1 SD</referer></item>
 
-<item><title>Sport TV 1 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv1hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6108.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://lcmn.serveftp.net:8000/live/Zezito/Zezito/6110.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1$$lsname=SPORT TV 1</link>
-</item>
 
 
 
@@ -92,11 +88,6 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv2.html</sportsdevil>
 <referer>$$lsname=Sport TV 2 SD</referer></item>
 
-<item><title>Sport TV 2 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv2hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-</item>
-
 
 <item><title>Sport TV 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv3.jpg</thumbnail>
 <sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
@@ -104,11 +95,6 @@
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv3.html</sportsdevil>
 <referer>$$lsname=Sport TV 3 SD</referer></item>
-
-<item><title>Sport TV 3 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv3hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-</item>
 
 
 
@@ -119,23 +105,12 @@
 <sportsdevil>http://sportvgratis.stream/canais/sporttv4.html</sportsdevil>
 <referer>$$lsname=Sport TV 4 SD</referer></item>
 
-<item><title>Sport TV 4 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv4hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-</item>
-
-
 
 <item><title>Sport TV 5</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv5.jpg</thumbnail>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php</sportsdevil>
 <sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
 <sportsdevil>http://sportvgratis.stream/canais/sporttv5.html</sportsdevil>
 <referer>$$lsname=Sport TV 5 SD</referer></item>
-
-<item><title>Sport TV 5 HD</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv5hd.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://77.54.248.94:9981/stream/channelid/2135667;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://cine.elitetv.io:25461/live/bolacha/bolacha/5276.m3u8;streamtype=HLSRETRY&amp;name=SportTV1$$lsname=Sport TV1</link>
-</item>
 
 
 
@@ -145,12 +120,6 @@
 <item><title>Fox MotorSports</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
 <link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
 
-
-
-<item><title>Telekanal Futbol</title><thumbnail>http://logowow.net/logos/cOZ4hLEAG.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=7dc17766ea46527b855ca2c827539bb1422c368b&hlc=1&spv=0&amp;name=camarote$$lsname=Telekanal</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&hlc=1&spv=0&amp;name=camarote$$lsname=Telekanal HD</link>
-</item>
 
 
 
@@ -171,27 +140,42 @@
 <link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 7e8</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 9 PT</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 10e11</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=72235a633dce0c51235316178260d485dce132a1&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 12</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 13e14</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=c84c51d53c2dbada993610da74e4a45b87210df2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 15e16</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=1dad3cd3a49e046dc8f7b94fecb5942cb28aa746&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 19e20</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 21e22</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 23e24</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 25e26</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=3e1f9a91f9d2028e4e4e8d4a594371063922284d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 27e28</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=4ba00644194a56f946d68074707f5b59743afbab&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 29e30</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=5e69b4801e8c64ba14296908436826c43168829d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 31e32</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 33e34 US</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=f53b76f6a8fd2463b7bb47bd9cc980112273e749&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 35e36 US</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=d5de528dc548e284ea1f8a2a6f6a70fda917df09&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 37e38 US</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 39e40 US</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 41e42 US</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 43e44 US</link>
 </item>
 
 
 <item><title>[COLOR white]Camarote[/COLOR] [COLOR green]I[/COLOR][COLOR yellow]P[/COLOR][COLOR red]TV[/COLOR]</title>
-<thumbnail>https://i.imgur.com/V9vRAa8.png</thumbnail><fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71HsKqvthSL.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://bit.ly/iptvcamarote</externallink></item>
 
 
-<item><title>[COLOR white]+ Canais[/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/pics/iptv%20icon.png</thumbnail>
-<fanart>https://i.imgur.com/wuh6NC4.jpg</fanart>
+<item><title>[COLOR white]Lista de Canais[/COLOR]</title><thumbnail>https://i.imgur.com/V9vRAa8.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://bit.ly/listainternacional</externallink></item>
+
+
+<item><title>[COLOR white]Lista de Canais 2[/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/iptv%20icon.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/wL2Jvyh8</externallink></item>
+
+<item><title>[COLOR white]Lista de Canais 3[/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/iptv%20red.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/K2X65rB3</externallink></item>
