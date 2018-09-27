@@ -31,13 +31,13 @@ http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sportv.png" group-title="Desporto",SPORTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sportv.jpg" group-title="Desporto",SPORTV
 http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/SPORTV2.png" group-title="Desporto",SPORTV2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sportv2.jpg" group-title="Desporto",SPORTV2
 http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/SPORTV3.png" group-title="Desporto",SPORTV3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sportv3.jpg" group-title="Desporto",SPORTV3
 http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/ESPNBR.png" group-title="Desporto",ESPN BRASIL
@@ -46,7 +46,7 @@ http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/ESPN+.png" group-title="Desporto",ESPN+
 http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/FOXSPORTS.png" group-title="Desporto",Fox Sports BR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/foxsports.png" group-title="Desporto",Fox Sports BR
 http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Desporto",Fox Sports 2 BR
@@ -129,7 +129,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/RAINEWS24.png",RAI News24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
 
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/DW.png",DW
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/DW.png",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/FRANCE24.png",FRANCE 24
