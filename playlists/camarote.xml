@@ -1,36 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<item><title>RTP 1</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp1.jpg</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link></item>
-
-<item><title>RTP 2</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp2.jpg</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8</link></item>
-
-<item><title>SIC</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sic.jpg</thumbnail>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
-
-<item><title>TVI</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvi.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/4.m3u8;streamtype=HLSRETRY&amp;name=camarote</link></item>
-
-<item><title>SIC Noticias</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sicnot.jpg</thumbnail>
-<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link></item>
-
-<item><title>RTP 3</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/rtp3.jpg</thumbnail>
-<link>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8</link></item>
-
-<item><title>TVI 24</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/tvi24.jpg</thumbnail>
-<link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
-
-<item><title>CMTV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/cmtv.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.m3u8;streamtype=HLSRETRY&amp;name=CMTV</link></item>
-
-
-<item><title>A Bola TV</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/bolatv.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8;streamtype=HLSRETRY&amp;name=BolaTV</link></item>
-
-<item><title>Sport TV +</title><thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/sptv+.jpg</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8;streamtype=HLSRETRY&amp;name=SportTV</link></item>
-
 <item><title>BTV</title>
 <thumbnail>https://raw.githubusercontent.com/manhell/camarote/master/img/btv.jpg</thumbnail>
 <fanart>http://benficalovers.pt/wp-content/uploads/2015/12/GetImage.jpg</fanart>
@@ -87,45 +56,6 @@
 
 
 
-
-
-
-<item><title>Fox MotorSports</title><thumbnail>https://i.imgur.com/zAI6j1d.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=270e8d9db12f33f895fdcff7cec3dc58e37b1e11&hlc=1&spv=0&amp;name=FoxSport</link></item>
-
-
-
-
-<item><title>Camarotes Premium</title><thumbnail>https://i.imgur.com/GNtWwdt.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=3081ada1b7f83870358227b8a09ef4b3b50dce1b&hlc=1&spv=0&amp;name=camarote$$lsname=eleven1</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=7522c7b054b1ffe28f824e98b487c735dc2e0e51&hlc=1&spv=0&amp;name=camarote$$lsname=SportTV1 HD</link>
-</item>
-
-<item><title>Camarotes Platinum</title><thumbnail>https://i.imgur.com/7WG7l0V.png</thumbnail>
-<link>http://127.0.0.1:6878/ace/getstream?id=2aa3b91bd1591e90b269f2f4f898973b7e03f09d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 17e18 PT</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=6a703df0f20ce6b041b1729d18722a3a131604ca&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 1e2 ES</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=c683d1a926507f276b3891c562f5153b2f75ba3f&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 3e4 ES</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=211a04b9d9c13e5717b8be7fd63d6f9ab1eba761&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 5e6 ES</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=11647325b165dbaf8b7518365f93450937fb03fb&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 7e8</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d5eb2e5059d544c31ac59773c159a35974567cb2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 9 PT Calcio</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=36115aa6a959ff0e6039c6e2a1b0f8f592926273&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 10e11</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=72235a633dce0c51235316178260d485dce132a1&hlc=1&spv=0&amp;name=camarote$$lsname=Camarote 12</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=b0c507889db729d2c58439e63048dd058c25eb22&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 13e14</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=c84c51d53c2dbada993610da74e4a45b87210df2&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 15e16</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1dad3cd3a49e046dc8f7b94fecb5942cb28aa746&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 19e20</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d661d0f799a01fa55677bec5200e826f388cb840&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 21e22</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=05399300f9ce1aaec48d9b9e3e7b558efb9d958c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 23e24</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=9f184e62fcd73f77db89b07e61aa40cc3dfdfe8c&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 25e26</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=3e1f9a91f9d2028e4e4e8d4a594371063922284d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 27e28</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=4ba00644194a56f946d68074707f5b59743afbab&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 29e30</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=5e69b4801e8c64ba14296908436826c43168829d&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 31e32</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=4b9032f21f0c60877d8d3718ae95d7243a83bfbe&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 33e34 US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=f53b76f6a8fd2463b7bb47bd9cc980112273e749&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 35e36 US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=d5de528dc548e284ea1f8a2a6f6a70fda917df09&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 37e38 US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=e18a006f1cf8d9615a7d5a17a2b79f083cf58072&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 39e40 US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=094b943a2e154719c3b1cf710ff0dcbbbc5f8243&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 41e42 US</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=c9d8d8370da51f7ffaeae59f5a60a6c1fe0d28c8&hlc=1&spv=0&amp;name=camarote$$lsname=Camarotes 43e44 US</link>
-</item>
 
 
 <item><title>[COLOR white]Camarote[/COLOR] [COLOR green]I[/COLOR][COLOR yellow]P[/COLOR][COLOR red]TV[/COLOR]</title>

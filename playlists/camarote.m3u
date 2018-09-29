@@ -1,35 +1,35 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp1.jpg",RTP 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp1.png",RTP 1
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp2.jpg",RTP 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp2.png",RTP 2
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/playlist.pt.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sic.jpg" tvg-id="sic.pt",SIC
+#EXTINF:-1 group-title="PORTUGAL"  tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sic.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/tvi.jpg" tvg-id="TVI.pt",TVI
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/tvi.png",TVI
 http://5.189.187.55:8000/live/Fadil/skype/1055.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sicnot.jpg",SIC Noticias
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sicnot.png",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtpn.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp3.jpg",RTP 3
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtpn.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/rtp3.png",RTP 3
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/tvi24.jpg" tvg-id="TVI24.pt",TVI 24
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI24.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/tvi24.png",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sicrad.jpg",SIC Radical
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sicrad.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/portocanal.jpg" tvg-id="PortoCanal.pt",Porto Canal
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/portocanal.png",Porto Canal
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/GNtWwdt.png",Camarote Premium
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/Zc894p7.png",Camarote
 http://10.0.1.6:8902/tv.asf
 
 
@@ -69,7 +69,7 @@ http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/fs1.jpg" group-title="Desporto",FS1
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/fs1.jpg",FS1
 http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:3C:CA:45&uid=6511
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/fs2.jpg",FS2
