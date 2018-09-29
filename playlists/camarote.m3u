@@ -22,7 +22,7 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepe
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI24.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/tvi24.png",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/sicrad.png",SIC Radical
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicradical.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logosicradical.png/400px-Logosicradical.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="PortoCanal.pt" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/01/index.png",Porto Canal
@@ -42,10 +42,10 @@ http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png" group-title="Desporto",SPORTV3
 http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/ESPNBR.png" group-title="Desporto",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="Desporto",ESPN Brasil
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/ESPN+.png" group-title="Desporto",ESPN+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="Desporto",ESPN+
 http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Desporto",Fox Sports BR
@@ -69,10 +69,10 @@ http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/fs1.png",FS1
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:3C:CA:45&uid=6511
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/fs2.png",FS2
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://freedooballt1.blogdns.com:8081/iheartmovie41/0x444_fox2us_360p/chunks.m3u8
 
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/espn.png",ESPN
