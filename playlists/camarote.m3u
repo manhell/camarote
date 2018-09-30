@@ -81,8 +81,6 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/manhell/camarote/master/img/espn2.png",ESPN2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.imgur.com/5cVYLxQ.png",BEIN Sports US
-http://144.217.72.121:8000/live/nova1764/a1764/1245.m3u8
 
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="Desporto",PAC 12 Network (National)
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
@@ -158,3 +156,6 @@ http://djing.com/tv/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://5.189.166.30/LBox/Divers/Logos/Musica/DJING_IBIZA.png" group-title="Musica",DJING Ibiza
 http://djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxNjU4M2UtZDc1MS00NTE0LWJmMWQtOWViOGI5ZDY5MTU5XkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg" group-title="FLIX",Vengeance (2018)
+https://onedrive.live.com/embed?cid=B66F1F5FD151352D&resid=B66F1F5FD151352D%2143630&authkey=ACAY5SUWjFusEQw
